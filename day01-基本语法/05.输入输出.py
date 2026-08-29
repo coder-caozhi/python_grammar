@@ -10,6 +10,7 @@ age = 28
 salary = 3000.567
 print(name)
 print(age)
+print(salary)
 # 输出多个特殊符号
 # 输出30个*号
 print("*"*30)

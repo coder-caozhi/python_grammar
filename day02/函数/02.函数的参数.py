@@ -7,7 +7,7 @@ get_info("吴亦凡",35)
 get_info(27,"蔡徐坤")
 
 # 关键字参数
-get_info(age=24,name="王飞龙")
+get_info(age=24, name="王飞龙")
 
 # 默认参数：默认参数可传可不传，传了使用传入的值，不传则使用默认值
 def get_user(name, age, gender="男"):

@@ -12,6 +12,7 @@
 """
 # 使用()创建元组
 my_tuple = (1,2,3)
+print(my_tuple)
 print(type(my_tuple))
 # 使用tuple函数创建元组
 my_tuple2 = tuple("hello")

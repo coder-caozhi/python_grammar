@@ -12,6 +12,7 @@ my_list2 = my_list.copy()
 # 分别打印
 print(my_list)
 print(my_list2)
+print(id([1, [2, 3]]))
 print(id(my_list))
 print(id(my_list2))
 # 修改my_list索引为0的值
@@ -26,6 +27,9 @@ print("="*30)
 my_list3 = copy.deepcopy(my_list)
 print(my_list)
 print(my_list3)
+print(id(my_list))
+print(id(my_list3))
+
 # 修改my_list索引为1的列表中索引为0的位置的值
 my_list[1][0] = 300
 print(my_list)
