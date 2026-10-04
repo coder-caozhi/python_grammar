@@ -14,8 +14,9 @@ score: Dict[str,float] = {
     "python": 66.66
 }
 print(score)
-gender: str|None = None
-print(gender)
+gender: str | None = None          # Python 3.10+ 的现代简写
+gender: Optional[str] = None       # typing 里的传统写法，完全等价
+gender: Union[str, None] = None    # Union 写法，同样等价
 email: Optional[str] = "wangfeilong@qq.com"
 print(email)
 salary: int|float = 88888

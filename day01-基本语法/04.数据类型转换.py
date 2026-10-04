@@ -19,6 +19,10 @@ str = "My Balance is"
 # str2 = str + num7
 # print(str2)
 
+# 无法自动转换，必须显式转换
+# str7 = '7'
+# print(num7 + str7)
+
 # 显示转换
 # 字符串转int，字符串必须是数值类型
 my_str = "123"

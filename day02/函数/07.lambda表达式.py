@@ -12,6 +12,7 @@ print(my_list3)
 # sort函数：对列表直接排序，没有返回值
 my_list.sort()
 # sorted函数：对列表排序之后返回一个新的列表
+# my_list = [1,2,-3,4,-5] 按照大小排序，不是顺序排序
 my_list4 = sorted(my_list,reverse=True)
 print(my_list4)
 

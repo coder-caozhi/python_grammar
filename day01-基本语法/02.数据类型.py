@@ -51,3 +51,6 @@ def hello_world():
 
 result = hello_world()
 print(result)
+
+def add(a, b):
+    return a + b

@@ -17,7 +17,7 @@ def modify_b():
 # 调用函数modify_a
 modify_a() # 100
 # 在函数外部再打印a的值
-print(a) # 10
+print(a) # 100
 
 # 调用函数modify_b
 modify_b() # [100,2,3]

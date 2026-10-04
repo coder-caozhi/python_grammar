@@ -40,7 +40,7 @@ print(my_list2)
 my_list2.pop(1)
 print(my_list2)
 # 删除第一个出现的元素
-my_list2.remove(1)
+my_list2.remove(5)
 print(my_list2)
 # 获取元素的索引
 print(my_list2.index(7))

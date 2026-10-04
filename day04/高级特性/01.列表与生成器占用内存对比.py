@@ -20,6 +20,11 @@ print(next(my_generator)) # 3
 print(next(my_generator)) # StopIteration
 
 # 创建一个for循环只在控制台打印生成器生成的第一个值和最后一个值
+first_value = None
+last_value = None
 for i in my_generator:
-    if i <= 10:
-        print(i)
+    if first_value is None:
+        first_value = i  # 记录第一个值
+    last_value = i       # 每次覆盖，循环结束后即为最后一个值
+print(first_value)
+print(last_value)
