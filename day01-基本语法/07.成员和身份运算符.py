@@ -1,33 +1,53 @@
-# 成员运算符
+# =====================================================================
+# 07. 成员运算符和身份运算符
+# ---------------------------------------------------------------------
+# 【成员运算符】in / not in  → 判断"某元素在不在"字符串或容器里
+# 【身份运算符】is / is not  → 判断两个变量是否指向"同一个对象"
+# 【关键区别】== 比的是"值"；  is 比的是"是不是同一个对象"
+# =====================================================================
+
+
+# ---------------------------------------------------------------------
+# 一、成员运算符 in / not in
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("一、成员运算符")
+print("=" * 40)
+
+# 判断字符是否在字符串里
 my_str = "hello"
-# 判断e在不在str中
-print("e" in my_str)  # True
-print("a" not in my_str)  # True
+print("e" in my_str)             # 输出：True   → e 在 hello 里
+print("a" not in my_str)         # 输出：True   → a 不在 hello 里
 
-# 创建一个列表
+# 判断元素是否在列表里
 my_list = [1, "a", 6.66, True]
-# 判断1在不在列表中
-print(1 in my_list)  # True
-print("a" not in my_list)  # False
+print(1 in my_list)              # 输出：True
+print("a" not in my_list)        # 输出：False  → a 在列表里，所以 not in 为 False
 
-"""
-    身份运算符
-    在Python中
-    == 相当于Java中的 equals
-    is 相当于Java中的 ==
-"""
+
+# ---------------------------------------------------------------------
+# 二、身份运算符 is / is not
+# ---------------------------------------------------------------------
+# 类比：== 类似 Java 的 equals（比内容）；is 类似 Java 的 ==（比地址）
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("二、身份运算符")
+print("=" * 40)
+
+# 小整数（-5 ~ 256）Python 会缓存复用，所以两个 10 是"同一个对象"
 num = 10
 num2 = 10
-print(num == num2)  # True
-print(id(num))
-print(num is num2)  # True
-print(id(num2))
+print(num == num2)               # 输出：True   → 值相等
+print(id(num))                   # 输出：对象地址
+print(num is num2)               # 输出：True   → 连对象都同一个（被缓存）
+print(id(num2))                  # 输出：和上面相同
 
+# 同一段代码里，相同的常量也常被复用为同一个对象
 num3 = 1000
 num4 = 1000
-print(num3 == num4)  # True
+print(num3 == num4)              # 输出：True   → 值相等
 print(id(num3))
-print(num3 is num4)  # True
+print(num3 is num4)              # 输出：True   → 指向同一对象
 print(id(num4))
 
-print(num3 is not num4)  # False
+print(num3 is not num4)          # 输出：False  → 因为它们是同一个对象

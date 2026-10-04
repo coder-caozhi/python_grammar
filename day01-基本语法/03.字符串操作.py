@@ -1,56 +1,109 @@
-# 使用双引号或单引号括起来的都属于字符串
-from http.cookiejar import join_header_words
+# =====================================================================
+# 03. 字符串操作
+# ---------------------------------------------------------------------
+# 【什么是字符串】用单引号 '  ' 或双引号 "  " 括起来的内容
+# 【本文件内容】创建、引号嵌套、转义字符
+#              split 切割、join 拼接、strip 去空白、replace 替换
+# =====================================================================
 
-str = "hello python"
-print(type(str))
-str2 = 'hello world'
-# 双引号字符串中可以嵌套单引号；单引号字符串中可以嵌套双引号
-str3 = "hello 'python'"
-str4 = 'hello "world"'
-print(type(str4))
-# 多行字符串，使用三个双引号或单引号（所见即所得）
-str5 = """
+
+# ---------------------------------------------------------------------
+# 一、字符串的创建与引号嵌套
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("一、字符串的创建")
+print("=" * 40)
+
+my_str = "hello python"
+print(type(my_str))              # 输出：<class 'str'>
+
+my_str2 = 'hello world'
+print(my_str2)                   # 单引号、双引号效果一样
+
+# 引号嵌套技巧：双引号里可以放单引号，单引号里可以放双引号
+my_str3 = "hello 'python'"
+print(my_str3)                   # 输出：hello 'python'
+my_str4 = 'hello "world"'
+print(type(my_str4))             # 输出：<class 'str'>
+
+# 三引号：多行字符串，所见即所得（换行、缩进都会被保留）
+my_str5 = """
     Hello World
     Hello Python
     Hello Java
     Hello C
 """
-print(type(str5))
-print(str5)
+print(type(my_str5))             # 输出：<class 'str'>
+print(my_str5)
 
-# 转义字符
-str6 = "hello\npython"
-print(str6)
-str7 = "I'am Tom"
-print(str7)
-str8 = 'I\'m Jerry'
-print(str8)
 
-# split()函数
-str9 = "蔡徐坤,吴亦凡,王飞龙,李易峰,PGone,李小璐"
-my_list = str9.split(",")
-print(my_list)
-print(type(my_list))
+# ---------------------------------------------------------------------
+# 二、转义字符（用反斜杠 \ 表示特殊字符）
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("二、转义字符")
+print("=" * 40)
 
-# join()函数
-my_list2 = ["罗志祥","陶喆","文章","林丹","吴秀波","马蓉","宋喆"]
-# 使用♂符号将列表中的数据连接起来
-my_str = "♂".join(my_list2)
-print(my_str)
+# \n 表示换行
+my_str6 = "hello\npython"
+print(my_str6)                   # 输出：hello 换一行 python
 
-# strip()函数：去掉前后空格
-my_str = "     hello pytho     "
-print(my_str)
-# 去除前后空格之后
-print(my_str.strip())
-# 去除左边的空格
-print(my_str.lstrip())
-# 去除右边的空格
-print(my_str.rstrip())
+# 字符串里出现引号时，可以用转义 \' ，或换用另一种引号
+my_str7 = "I'am Tom"
+print(my_str7)                   # 输出：I'am Tom
+my_str8 = 'I\'m Jerry'
+print(my_str8)                   # 输出：I'm Jerry
 
-# replace()函数
+
+# ---------------------------------------------------------------------
+# 三、split()：按分隔符把字符串切成列表
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("三、split() 切割")
+print("=" * 40)
+
+my_str9 = "蔡徐坤,吴亦凡,王飞龙,李易峰,PGone,李小璐"
+my_list = my_str9.split(",")     # 按逗号切开
+print(my_list)                   # 输出：['蔡徐坤', '吴亦凡', ...]
+print(type(my_list))             # 输出：<class 'list'>  → 结果变成了列表
+
+
+# ---------------------------------------------------------------------
+# 四、join()：把列表用指定符号连接成一个字符串
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("四、join() 拼接")
+print("=" * 40)
+
+my_list2 = ["罗志祥", "陶喆", "文章", "林丹", "吴秀波", "马蓉", "宋喆"]
+my_str = "♂".join(my_list2)      # 用 ♂ 把列表元素连起来
+print(my_str)                    # 输出：罗志祥♂陶喆♂文章...
+
+
+# ---------------------------------------------------------------------
+# 五、strip() / lstrip() / rstrip()：去掉空白
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("五、去空白")
+print("=" * 40)
+
+my_str = "     hello python     "
+print(my_str)                    # 原样输出（前后有空格）
+print(my_str.strip())            # 去掉前后空格
+print(my_str.lstrip())           # 只去掉左边空格
+print(my_str.rstrip())           # 只去掉右边空格
+
+
+# ---------------------------------------------------------------------
+# 六、replace()：替换字符串内容
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("六、replace() 替换")
+print("=" * 40)
+
 my_str2 = "范冰冰,赵薇,户晨风"
-print(my_str2.replace(",","-"))
-print(my_str2.replace(",",""))
+print(my_str2.replace(",", "-"))        # 把逗号换成横杠
+print(my_str2.replace(",", ""))         # 把逗号删掉（替换成空字符）
+
 my_str3 = "hahaha python"
-print(my_str3.replace("ha","hei",2))
+print(my_str3.replace("ha", "hei", 2))  # 第 3 个参数：最多替换 2 次

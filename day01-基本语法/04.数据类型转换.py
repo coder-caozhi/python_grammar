@@ -1,77 +1,111 @@
-# 隐式转换
+# =====================================================================
+# 04. 数据类型转换
+# ---------------------------------------------------------------------
+# 【隐式转换】Python 自动完成，比如 int + float 会自动变成 float
+# 【显式转换】需要自己调用 int() / float() / str() / bool() 手动转换
+# 【重要】不同类型不能随便相加，比如 int + str 会直接报错
+# =====================================================================
+
+
+# ---------------------------------------------------------------------
+# 一、隐式转换：Python 自动完成
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("一、隐式转换")
+print("=" * 40)
+
 num = 3
 num2 = 3.3
-# 整型和浮点型相加转换为浮点型
+# int + float → 自动提升为 float
 num3 = num + num2
-print(num3)
-print(type(num3))
+print(num3)                      # 输出：6.3
+print(type(num3))                # 输出：<class 'float'>
 
-# 两个整型相除也会转换为浮点型
+# 两个整数相除，结果也会自动变成 float
 num4 = 10
 num5 = 3
 num6 = 10 / 3
-print(num6)
-print(type(num6))
+print(num6)                      # 输出：3.3333333333333335
+print(type(num6))                # 输出：<class 'float'>
 
-# 注意：在Python中整型和字符串不能相加，不会拼接字符串会报错
+
+# ---------------------------------------------------------------------
+# 二、不能自动转换的情况（会报错）
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("二、不能自动转换")
+print("=" * 40)
+
 num7 = 88
-str = "My Balance is"
-# str2 = str + num7
-# print(str2)
+my_str = "My Balance is"
+# 下面这行会报错：int 和 str 不能直接相加
+# print(my_str + num7)           # TypeError
 
-# 无法自动转换，必须显式转换
-# str7 = '7'
-# print(num7 + str7)
+# 数字字符串也一样，必须显式转换
+my_str7 = '7'
+# print(num7 + my_str7)          # TypeError：'7' 是字符串，不是数字
 
-# 显示转换
-# 字符串转int，字符串必须是数值类型
-my_str = "123"
-my_str_to_int = int(my_str)
-print(my_str_to_int)
-print(type(my_str_to_int))
 
-# 浮点型转int，直接截取
+# ---------------------------------------------------------------------
+# 三、显式转换：int()
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("三、显式转换 int()")
+print("=" * 40)
+
+# 字符串转 int：字符串内容必须"长得像数字"
+my_str8 = "123"
+my_str_to_int = int(my_str8)
+print(my_str_to_int)             # 输出：123
+print(type(my_str_to_int))       # 输出：<class 'int'>
+
+# 浮点数转 int：直接"截断"小数部分（不是四舍五入！）
 my_float = 3.99
 my_float_to_int = int(my_float)
-print(my_float_to_int)
-print(type(my_float_to_int))
+print(my_float_to_int)           # 输出：3  → 注意不是 4
+print(type(my_float_to_int))     # 输出：<class 'int'>
 
-# 布尔转int
+# 布尔转 int：True→1，False→0
 my_f = False
 my_f_to_int = int(my_f)
-print(my_f_to_int)
-print(type(my_f_to_int))
+print(my_f_to_int)               # 输出：0
+print(type(my_f_to_int))         # 输出：<class 'int'>
 
-# 转布尔类型：0/空值/空容器为False，其他为True
-my_num = 0
-my_s = ""
-my_l = []
-my_num2 = 111
-my_s2 = "hello"
-my_l2 = [1,2,3]
-my_num_to_bool = bool(my_num)
-print(my_num_to_bool) # False
-print(type(my_num_to_bool))
-my_s_to_bool = bool(my_s)
-print(my_s_to_bool) # False
-print(type(my_s_to_bool))
-my_l_to_bool = bool(my_l)
-print(my_l_to_bool) # False
-print(type(my_l_to_bool))
-my_num2_to_bool = bool(my_num2)
-print(my_num2_to_bool) #True
-my_s2_to_bool = bool(my_s2)
-print(my_s2_to_bool) # True
-my_l2_to_bool = bool(my_l2)
-print(my_l2_to_bool) # True
 
-# 编码
+# ---------------------------------------------------------------------
+# 四、显式转换：bool()
+# ---------------------------------------------------------------------
+# 规则：0、空字符串、空列表等"空值" → False；其它 → True
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("四、显式转换 bool()")
+print("=" * 40)
+
+# ↓↓↓ 这些都会得到 False
+print(bool(0))                   # 输出：False
+print(bool(""))                  # 输出：False（空字符串）
+print(bool([]))                  # 输出：False（空列表）
+
+# ↓↓↓ 这些都会得到 True
+print(bool(111))                 # 输出：True
+print(bool("hello"))             # 输出：True
+print(bool([1, 2, 3]))           # 输出：True
+
+
+# ---------------------------------------------------------------------
+# 五、补充：编码与解码（encode / decode）
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("五、编码与解码")
+print("=" * 40)
+
+# 编码：字符串 → 字节（bytes）
 my_en = "快下课了"
 my_by = my_en.encode("UTF-8")
-print(my_by)
-print(type(my_by))
+print(my_by)                     # 输出：b'\xe5\xbf\xab...'
+print(type(my_by))               # 输出：<class 'bytes'>
 
-# 解码
+# 解码：字节 → 字符串（编码和解码要用同一种字符集）
 my_en2 = my_by.decode("UTF-8")
-print(my_en2)
-print(type(my_en2))
+print(my_en2)                    # 输出：快下课了
+print(type(my_en2))              # 输出：<class 'str'>
