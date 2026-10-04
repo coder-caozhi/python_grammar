@@ -41,8 +41,18 @@ print(type(num3))                # 输出：<class 'int'>
 print(num3)                      # 输出：1000000000000
 
 # 布尔 bool 是整数 int 的"子类型"（True=1，False=0）
+# 语法：int(布尔值)  → 显式（强制）类型转换，把 bool 转成 int
 num4 = False
+print(int(num4))                 # 输出：0  → False 强转成 0
+
+num5 = True
+print(int(num5))                 # 输出：1  → True 强转成 1
+
 print(isinstance(num4, int))     # 输出：True  → 布尔本质上也是整数
+
+# 反过来也可以：int(0) / int(1) 用 bool() 转回布尔
+print(bool(0))                   # 输出：False  → 0 转成 False
+print(bool(1))                   # 输出：True   → 非 0 转成 True
 
 
 # ---------------------------------------------------------------------
@@ -67,9 +77,11 @@ print(id(my_str))                # 输出：地址 B（和 A 不同）
 my_list = [1, 2, 3, 4]
 print(my_list)                   # 输出：[1, 2, 3, 4]
 print(id(my_list))               # 输出：列表对象地址 C
+c = id(my_list)
 my_list[0] = 100                 # 修改第 1 个元素
 print(my_list)                   # 输出：[100, 2, 3, 4]
 print(id(my_list))               # 输出：地址仍是 C（对象没变）
+print(id(my_list) == c)          # 输出：一定是True
 
 
 # ---------------------------------------------------------------------
