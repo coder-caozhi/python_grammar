@@ -15,10 +15,10 @@ print("一、input() 输入")
 print("=" * 40)
 
 # 注意：input 返回的永远是字符串 str，需要数字时要自己转换
-# name = input("请输入您的姓名：")
-# print(type(name))              # <class 'str'>
-# age = input("请输入您的年龄：")
-# print(type(age))               # <class 'str'>
+name = input("请输入您的姓名：")
+print(type(name))              # <class 'str'>
+age = input("请输入您的年龄：")
+print(type(age))               # <class 'str'>
 
 
 # ---------------------------------------------------------------------
@@ -70,3 +70,6 @@ print("=" * 40)
 # 默认 end="\n" 会换行；改成 end='' 就不换行
 print(f"我叫{name},", end='')
 print(f"我的年龄是{age}岁")
+
+print("张三", end = '\n')
+print("李四")
