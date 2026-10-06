@@ -1,47 +1,69 @@
+# =====================================================================
+# 08. 继承 —— 多继承
+# ---------------------------------------------------------------------
+# 【语法】    class 子类(父类1, 父类2): ...
+# 【查找顺序】子类 → 父类1 → 父类2（从左到右，即 MRO 顺序）
+#             同名方法"先找到谁就用谁"，
+#             所以 Student(Person, Monkey) 会用 Person 的 speak
+# =====================================================================
+
+
+# ---------------------------------------------------------------------
+# 一、定义两个父类
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("一、定义两个父类")
+print("=" * 40)
+
 class Monkey:
 
-    # 定义初始化函数
-    def __init__(self,name):
+    def __init__(self, name):
         self.name = name
 
-    # 实例函数
     def climb(self):
         print(f"{self.name} 在攀爬")
 
-    # 实例函数
     def speak(self):
         print(f"{self.name} 在啊啊啊大叫")
 
 
+class Person:
 
-class Person():
-
-    # 定义子类的初始化函数
-    def __init__(self,name):
+    def __init__(self, name):
         self.name = name
 
-    # 重写父类的speak函数
     def speak(self):
         print(f"{self.name} 正在唱歌")
 
-    # 定义实例函数
     def thinking(self):
         print(f"{self.name} 正在思考未来")
 
 
-class Student(Person,Monkey):
+# ---------------------------------------------------------------------
+# 二、定义子类 Student：同时继承 Person 和 Monkey
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("二、定义子类")
+print("=" * 40)
 
-    # 独有的实例函数
-    def study(self):
+class Student(Person, Monkey):
+
+    def study(self):              # 子类独有的方法
         print(f"{self.name} 正在学习Python")
 
-# 创建对象
+
+# ---------------------------------------------------------------------
+# 三、创建对象，调用各个方法
+# ---------------------------------------------------------------------
+print("=" * 40)
+print("三、调用方法")
+print("=" * 40)
+
 s = Student("王飞龙")
-# 调用继承之Monkey的函数
-s.climb()
-# 调用继承之Person的thinking函数
-s.thinking()
-# 调用子类独有的study函数
-s.study()
-# 调用speak函数
-s.speak()
+
+s.climb()                         # 来自 Monkey，输出：王飞龙 在攀爬
+s.thinking()                      # 来自 Person，输出：王飞龙 正在思考未来
+s.study()                         # 子类独有，输出：王飞龙 正在学习Python
+
+# 两个父类都有 speak：按 Person → Monkey 的顺序，取 Person 的版本
+s.speak()                         # 输出：王飞龙 正在唱歌
