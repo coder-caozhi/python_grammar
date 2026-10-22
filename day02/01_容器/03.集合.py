@@ -88,5 +88,9 @@ print(my_set3 & my_set4)          # 交集：两个集合都有的元素 → {2,
 print(my_set3 | my_set4)          # 并集：合并后去重 → {1, 2, 3, 4, 5, 6}
 print(my_set3 - my_set4)          # 差集：my_set3 有而 my_set4 没有 → {1}
 print(my_set4 - my_set3)          # 差集：my_set4 有而 my_set3 没有 → {6}
+
+# 对称差集的定义：由只属于 A 或只属于 B 的元素组成的集合，
+# 即不同时属于两个集合的元素，记作 A △ B（也叫反交集）。
+# 公式：A △ B = (A - B) ∪ (B - A) = (A ∪ B) - (A ∩ B)
 print(my_set3 ^ my_set4)          # 对称差集：只在其中一个集合里 → {1, 6}
 print(my_set4 ^ my_set3)          # 对称差集：结果与上面相同
