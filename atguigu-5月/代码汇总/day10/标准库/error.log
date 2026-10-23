@@ -1,0 +1,11 @@
+invalid literal for int() with base 10: '123abc'Traceback (most recent call last):
+  File "D:\atguigu\ai\BJ20260511AI\01_尚硅谷大模型之Python基础\PythonProject\day10_code\p01_晨考题1.py", line 14, in <module>
+    num = int(s)
+          ^^^^^^
+ValueError: invalid literal for int() with base 10: '123abc'
+Traceback (most recent call last):
+  File "D:\atguigu\ai\BJ20260511AI\01_尚硅谷大模型之Python基础\PythonProject\day10_code\p01_晨考题1.py", line 14, in <module>
+    num = int(s)
+          ^^^^^^
+ValueError: invalid literal for int() with base 10: '123abc'
+
