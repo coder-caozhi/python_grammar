@@ -1,3 +1,10 @@
 .idea/
 .qoder/
 .*/
+# Learning environments and private configuration
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.env
+**/.env.*
+!**/.env.example
