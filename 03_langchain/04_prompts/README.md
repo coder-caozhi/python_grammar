@@ -1,0 +1,27 @@
+# 04_prompts
+
+运行配置选择 `03_langchain/.venv/Scripts/python.exe`，工作目录选择具体脚本所在目录。
+
+- [chat_prompt_templates/chat_prompt_template_constructor.py](chat_prompt_templates/chat_prompt_template_constructor.py)
+- [chat_prompt_templates/chat_prompt_template_format_messages.py](chat_prompt_templates/chat_prompt_template_format_messages.py)
+- [chat_prompt_templates/parameters/chat_prompt_template_dict_param.py](chat_prompt_templates/parameters/chat_prompt_template_dict_param.py)
+- [chat_prompt_templates/parameters/chat_prompt_template_message_param.py](chat_prompt_templates/parameters/chat_prompt_template_message_param.py)
+- [chat_prompt_templates/parameters/chat_prompt_template_tuple_param.py](chat_prompt_templates/parameters/chat_prompt_template_tuple_param.py)
+- [chat_prompt_templates/placeholders/chat_prompt_template_explicit_placeholder.py](chat_prompt_templates/placeholders/chat_prompt_template_explicit_placeholder.py)
+- [chat_prompt_templates/placeholders/chat_prompt_template_implicit_placeholder.py](chat_prompt_templates/placeholders/chat_prompt_template_implicit_placeholder.py)
+- [external_prompts/load_json_prompt.py](external_prompts/load_json_prompt.py)
+- [external_prompts/load_yaml_prompt.py](external_prompts/load_yaml_prompt.py)
+- [import_prompt_env.py](import_prompt_env.py)
+- [model_calls/llm_async_batch.py](model_calls/llm_async_batch.py)
+- [model_calls/llm_async_invoke.py](model_calls/llm_async_invoke.py)
+- [model_calls/llm_async_stream.py](model_calls/llm_async_stream.py)
+- [model_calls/llm_batch.py](model_calls/llm_batch.py)
+- [model_calls/llm_invoke.py](model_calls/llm_invoke.py)
+- [model_calls/llm_stream.py](model_calls/llm_stream.py)
+- [prompt_templates/methods/prompt_template_format_method.py](prompt_templates/methods/prompt_template_format_method.py)
+- [prompt_templates/methods/prompt_template_invoke_method.py](prompt_templates/methods/prompt_template_invoke_method.py)
+- [prompt_templates/methods/prompt_template_partial_method.py](prompt_templates/methods/prompt_template_partial_method.py)
+- [prompt_templates/prompt_template_combined.py](prompt_templates/prompt_template_combined.py)
+- [prompt_templates/prompt_template_constructor.py](prompt_templates/prompt_template_constructor.py)
+- [prompt_templates/prompt_template_from_template.py](prompt_templates/prompt_template_from_template.py)
+- [prompt_templates/prompt_template_partial_variables.py](prompt_templates/prompt_template_partial_variables.py)
