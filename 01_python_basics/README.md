@@ -9,3 +9,5 @@ Python 基础：依次学习语法、容器与函数、面向对象与模块、�
 - [05_debugging](05_debugging/)
 - [06_practice](06_practice/)
 - [07_comprehensive_practice](07_comprehensive_practice/)
+
+- [08_advanced_python：迭代器、生成器、打包解包与异步](08_advanced_python/README.md)
