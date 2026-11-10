@@ -1,0 +1,2443 @@
+[
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\01.变量.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\01_变量.py",
+    "sha256_before": "47062ab8c3269e9ec336ccde141cc7811a6015075950037fc73cc3f082705010",
+    "sha256_after": "47062ab8c3269e9ec336ccde141cc7811a6015075950037fc73cc3f082705010"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\02.数据类型.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\02_数据类型.py",
+    "sha256_before": "c60474ac04b60e6b11db14159f780267b071b8680f7fa34be51fe362c69697e6",
+    "sha256_after": "c60474ac04b60e6b11db14159f780267b071b8680f7fa34be51fe362c69697e6"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\03.字符串操作.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\03_字符串操作.py",
+    "sha256_before": "7594b89a7a822903a40b667b056ba05bb8ba8b5ff07645389085f3ddca3f71b1",
+    "sha256_after": "7594b89a7a822903a40b667b056ba05bb8ba8b5ff07645389085f3ddca3f71b1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\04.数据类型转换.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\04_数据类型转换.py",
+    "sha256_before": "83f05b62d432effe216d0044c43eb6eacdbb2353d1cf24876fbf58421628e18d",
+    "sha256_after": "83f05b62d432effe216d0044c43eb6eacdbb2353d1cf24876fbf58421628e18d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\05.输入输出.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\05_输入输出.py",
+    "sha256_before": "b808b478f22d14218a6b6b0d44c029733ef5b76a21b625b2ae48607057645719",
+    "sha256_after": "b808b478f22d14218a6b6b0d44c029733ef5b76a21b625b2ae48607057645719"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\06.运算符.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\06_运算符.py",
+    "sha256_before": "87ce43e8e2d997c6a2c067e4a552dd9515aad4074ca75ca8350c2b3b62814d79",
+    "sha256_after": "87ce43e8e2d997c6a2c067e4a552dd9515aad4074ca75ca8350c2b3b62814d79"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\07.成员和身份运算符.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\07_成员和身份运算符.py",
+    "sha256_before": "e31b78ed7c252a458f4a10b5b2266c179bf937888494c651b53487a212b1d082",
+    "sha256_after": "e31b78ed7c252a458f4a10b5b2266c179bf937888494c651b53487a212b1d082"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\08.流程控制.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\08_流程控制.py",
+    "sha256_before": "b8f54ba66c02c1d615f5891db48c92a56377b23ad3e9354a57e31ce8822e70b2",
+    "sha256_after": "b8f54ba66c02c1d615f5891db48c92a56377b23ad3e9354a57e31ce8822e70b2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\09.循环.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\09_循环.py",
+    "sha256_before": "00bbb13b87323effb7a14dfdeb073d48bde90c797a0d3bff4513d8dfc350d032",
+    "sha256_after": "00bbb13b87323effb7a14dfdeb073d48bde90c797a0d3bff4513d8dfc350d032"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\10.列表.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\10_列表.py",
+    "sha256_before": "07ca97348fa99ea2e9acd784dbb8335b1568fbb85106de1fffa0d4277164f8aa",
+    "sha256_after": "07ca97348fa99ea2e9acd784dbb8335b1568fbb85106de1fffa0d4277164f8aa"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\11.切片.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\11_切片.py",
+    "sha256_before": "cc1dbd23217d521ef88d99f26b124e876ec909b9cbb40b5eacac050f4530aeb2",
+    "sha256_after": "cc1dbd23217d521ef88d99f26b124e876ec909b9cbb40b5eacac050f4530aeb2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\12.猜数字.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\12_猜数字.py",
+    "sha256_before": "6260380d07d292cc489db6ffbd82c1ba0088858f2b03e56e103ee278e0c544a7",
+    "sha256_after": "6260380d07d292cc489db6ffbd82c1ba0088858f2b03e56e103ee278e0c544a7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\13.小练习-需求.md",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\13_小练习-需求.md",
+    "sha256_before": "8d13b64a8588fe96a9261bdb262666edf5d9a938cc3cea8c1c7f501ba1795d19",
+    "sha256_after": "8d13b64a8588fe96a9261bdb262666edf5d9a938cc3cea8c1c7f501ba1795d19"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day01-基本语法\\13.超市购物小助手.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\01_syntax\\13_超市购物小助手.py",
+    "sha256_before": "b152a079c41e63ae5667998d54927f3fa597c96533a11ebf75a588aa390d706e",
+    "sha256_after": "b152a079c41e63ae5667998d54927f3fa597c96533a11ebf75a588aa390d706e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\01_容器\\01.列表和推导式.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\01_容器\\01_列表和推导式.py",
+    "sha256_before": "ac4da40f770f661851aa9c7e310fa3a40041d5f0e577588e22b6d59a38b2c983",
+    "sha256_after": "ac4da40f770f661851aa9c7e310fa3a40041d5f0e577588e22b6d59a38b2c983"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\01_容器\\02.元组.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\01_容器\\02_元组.py",
+    "sha256_before": "fe6be3d24dd9329f1b71f89344aebbbd86cd80d1dc6d35a082cc77ac59c0f393",
+    "sha256_after": "fe6be3d24dd9329f1b71f89344aebbbd86cd80d1dc6d35a082cc77ac59c0f393"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\01_容器\\03.集合.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\01_容器\\03_集合.py",
+    "sha256_before": "3870d08519e61aaf93f0739203f22abb110fc06726caea037a01fdd4a6888cdc",
+    "sha256_after": "3870d08519e61aaf93f0739203f22abb110fc06726caea037a01fdd4a6888cdc"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\01_容器\\04.字典.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\01_容器\\04_字典.py",
+    "sha256_before": "70398d5dc4b385ada706ca052dc7ddb86dfc4a3cefeaf5f7018cb30a9dd250c3",
+    "sha256_after": "70398d5dc4b385ada706ca052dc7ddb86dfc4a3cefeaf5f7018cb30a9dd250c3"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\01_容器\\05.深浅拷贝.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\01_容器\\05_深浅拷贝.py",
+    "sha256_before": "5b9dc470c99a430bb41c5b03cbe6d17324f3361f30840768bfcf82025abcbef5",
+    "sha256_after": "5b9dc470c99a430bb41c5b03cbe6d17324f3361f30840768bfcf82025abcbef5"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\01.声明函数.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\01_声明函数.py",
+    "sha256_before": "6220d2f5cd0b39a323aaa452a10df3ee2ec7365e93d1f0be1f3a08eaeb64369c",
+    "sha256_after": "6220d2f5cd0b39a323aaa452a10df3ee2ec7365e93d1f0be1f3a08eaeb64369c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\02.函数的参数.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\02_函数的参数.py",
+    "sha256_before": "3e3330d85e0e70628a9cf017a0ec4cdf25587cdb143a05589a77221966eb8ad9",
+    "sha256_after": "3e3330d85e0e70628a9cf017a0ec4cdf25587cdb143a05589a77221966eb8ad9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\03.解包传参.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\03_解包传参.py",
+    "sha256_before": "e6d736e015ad80f73d594cdfc70bbd0f8bedc15318b9e7bf2345f9f5fe2f1d30",
+    "sha256_after": "e6d736e015ad80f73d594cdfc70bbd0f8bedc15318b9e7bf2345f9f5fe2f1d30"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\04.嵌套调用.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\04_嵌套调用.py",
+    "sha256_before": "6a4f5adfdddcf252eacf31d68765c4c632ad32e7248f720f303d5a25d367ae8f",
+    "sha256_after": "6a4f5adfdddcf252eacf31d68765c4c632ad32e7248f720f303d5a25d367ae8f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\05.作用域.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\05_作用域.py",
+    "sha256_before": "587bc800236228d20152a8ef2011acb8a2e10b55fa7aeb365c9d051ec5d4d333",
+    "sha256_after": "587bc800236228d20152a8ef2011acb8a2e10b55fa7aeb365c9d051ec5d4d333"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\06.在函数内部修改全局和嵌套作用域的值.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\06_在函数内部修改全局和嵌套作用域的值.py",
+    "sha256_before": "1fc4ae7daf74956bdfbd06171e8cfa2c21642066eabcea210428917351edff37",
+    "sha256_after": "1fc4ae7daf74956bdfbd06171e8cfa2c21642066eabcea210428917351edff37"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\07.lambda表达式.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\07_lambda表达式.py",
+    "sha256_before": "7e895b8b257a9bb08896b81286d645965162bf99d318e25628923dbe42a31287",
+    "sha256_after": "7e895b8b257a9bb08896b81286d645965162bf99d318e25628923dbe42a31287"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\02_函数\\test.js",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\02_函数\\test.js",
+    "sha256_before": "88ee77a37744563bcceeac6abd54b49a76df3c28c24f6da9c19d3f8886369a88"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day02\\练习\\01.成绩小助手.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\02_containers_and_functions\\练习\\01_成绩小助手.py",
+    "sha256_before": "4762ff9dc33d5efbbb095a9ed74546a6ad3b1b5b00593980e664f837b8a5ab2c",
+    "sha256_after": "4762ff9dc33d5efbbb095a9ed74546a6ad3b1b5b00593980e664f837b8a5ab2c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\main.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\main.py",
+    "sha256_before": "0a4dd29cda9fa88ddeaf12941e824954e6f0df68e29cd0dc0bfdc0b2d9bfd802",
+    "sha256_after": "0a4dd29cda9fa88ddeaf12941e824954e6f0df68e29cd0dc0bfdc0b2d9bfd802"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\atguigu\\fun.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\atguigu\\fun.py",
+    "sha256_before": "2c48cfe0f2fd56ffaf43f75db66d9a4153626a44b22002aa855c6e952f592d78",
+    "sha256_after": "2c48cfe0f2fd56ffaf43f75db66d9a4153626a44b22002aa855c6e952f592d78"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\atguigu\\fun2.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\atguigu\\fun2.py",
+    "sha256_before": "4c3497e2efee5651e1c98784022da28c348035b0f7346a5bbdb916cb494b669e",
+    "sha256_after": "4c3497e2efee5651e1c98784022da28c348035b0f7346a5bbdb916cb494b669e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\atguigu\\__init__.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\atguigu\\__init__.py",
+    "sha256_before": "e70b3d65e678f56f77b22bba9e90e2594fa88ac1edfc3468065fb3ae25d4f71a",
+    "sha256_after": "e70b3d65e678f56f77b22bba9e90e2594fa88ac1edfc3468065fb3ae25d4f71a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\模块导入\\fun.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\模块导入\\fun.py",
+    "sha256_before": "fc7e93c66ecd4d8ffb6561eea5f810d909dd03779f53fc6b705068afe048acf8",
+    "sha256_after": "fc7e93c66ecd4d8ffb6561eea5f810d909dd03779f53fc6b705068afe048acf8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\模块导入\\test.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\模块导入\\test.py",
+    "sha256_before": "6365f7b2e0b48e6d87ecc3c1b32ddea9fdb9f32dd3077117f501041f05ef345c",
+    "sha256_after": "6365f7b2e0b48e6d87ecc3c1b32ddea9fdb9f32dd3077117f501041f05ef345c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\模块导入\\test2.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\模块导入\\test2.py",
+    "sha256_before": "241e6e20f594234c37736a847a1b9443e8ca1d28abfd91f6e0e338c046da4e53",
+    "sha256_after": "241e6e20f594234c37736a847a1b9443e8ca1d28abfd91f6e0e338c046da4e53"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\01.创建类.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\01_创建类.py",
+    "sha256_before": "610e7463c7b244ac8bb65ba065d00ca4cc5fc1fb029fdb6e4f541263aa8ec9b1",
+    "sha256_after": "610e7463c7b244ac8bb65ba065d00ca4cc5fc1fb029fdb6e4f541263aa8ec9b1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\02.实例属性.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\02_实例属性.py",
+    "sha256_before": "8da0c384d65592967929d4f6adb9d0d74c8193f03ee51737e48d23ee5f992742",
+    "sha256_after": "8da0c384d65592967929d4f6adb9d0d74c8193f03ee51737e48d23ee5f992742"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\03.类中的方法.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\03_类中的方法.py",
+    "sha256_before": "a3e223f28cc7ce2adf9cb5bfde11c116bbd7a0b690212d2f50f5533ad7189563",
+    "sha256_after": "a3e223f28cc7ce2adf9cb5bfde11c116bbd7a0b690212d2f50f5533ad7189563"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\04.魔法函数.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\04_魔法函数.py",
+    "sha256_before": "677744da9cd250fd432acac3f5a337f73394089a7f344b8ec9425e308000b40f",
+    "sha256_after": "677744da9cd250fd432acac3f5a337f73394089a7f344b8ec9425e308000b40f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\05.动态添加属性和函数.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\05_动态添加属性和函数.py",
+    "sha256_before": "a59210d6ea693411cb7047b343ca5850326006da6bfe9dad54b80705e3db24b5",
+    "sha256_after": "a59210d6ea693411cb7047b343ca5850326006da6bfe9dad54b80705e3db24b5"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\06.封装.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\06_封装.py",
+    "sha256_before": "78b3caff51299edde70573c324eb1002170c0a59ec74e476a0676527ea889107",
+    "sha256_after": "78b3caff51299edde70573c324eb1002170c0a59ec74e476a0676527ea889107"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\07.继承_单继承.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\07_继承_单继承.py",
+    "sha256_before": "8bb65cef9905fa18896ca5fa0b54fa216f5b36763002e6492d62a302995bda4f",
+    "sha256_after": "8bb65cef9905fa18896ca5fa0b54fa216f5b36763002e6492d62a302995bda4f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\08.继承_多继承.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\08_继承_多继承.py",
+    "sha256_before": "d446bfda162daef041b1a3687cca6205abc0b829422e855d0bf376259a2d7661",
+    "sha256_after": "d446bfda162daef041b1a3687cca6205abc0b829422e855d0bf376259a2d7661"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day03\\面向对象\\09.多态.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\03_oop_and_modules\\面向对象\\09_多态.py",
+    "sha256_before": "bcdc7b59922574c27396f4612cecfcea1ed99251b58b2f49e84533136f7c87bf",
+    "sha256_after": "bcdc7b59922574c27396f4612cecfcea1ed99251b58b2f49e84533136f7c87bf"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\01_操作文件\\01.读文件.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\01_操作文件\\01_读文件.py",
+    "sha256_before": "fb9338c5cd4dcb7bef5443534763c06c90b4a489baee63d4610f252d4edc3603",
+    "sha256_after": "fb9338c5cd4dcb7bef5443534763c06c90b4a489baee63d4610f252d4edc3603"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\01_操作文件\\02.写文件.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\01_操作文件\\02_写文件.py",
+    "sha256_before": "e99330fc5fbc4902c3e1bc7e8119014576f6637ca4cfe37bd0cce33f949ea0ae",
+    "sha256_after": "e99330fc5fbc4902c3e1bc7e8119014576f6637ca4cfe37bd0cce33f949ea0ae"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\01_操作文件\\03.小练习.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\01_操作文件\\03_小练习.py",
+    "sha256_before": "8bebd2c1a43bc095f27e79354a21ae5916c657befc0a7f5e6cc5e59683683cd9",
+    "sha256_after": "8bebd2c1a43bc095f27e79354a21ae5916c657befc0a7f5e6cc5e59683683cd9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\01_操作文件\\test.txt",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\01_操作文件\\test.txt",
+    "sha256_before": "7a2de8eecedeeab7b427b69bef2aa08e0efe626fc5cf16ce08e38d841ca22d7d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\01_操作文件\\test2.txt",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\01_操作文件\\test2.txt",
+    "sha256_before": "47a228c9fccfa547fcbf4bbd531e0dfbfcdeda999f46c9f1c8203a2870c04c49"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\02_JSON\\01.对象与JSON的转换.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\02_JSON\\01_对象与JSON的转换.py",
+    "sha256_before": "adc35f9d611aaefa39baba1805811989d0448d0c375a3acf07279eab55a9e9b3",
+    "sha256_after": "adc35f9d611aaefa39baba1805811989d0448d0c375a3acf07279eab55a9e9b3"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\02_JSON\\02.将对象写入文件.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\02_JSON\\02_将对象写入文件.py",
+    "sha256_before": "5bbc86075a2ce7736e2a56469df921efbd503c0beeae48ecd16b6294a5f501c2",
+    "sha256_after": "5bbc86075a2ce7736e2a56469df921efbd503c0beeae48ecd16b6294a5f501c2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\02_JSON\\python_data.json",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\02_JSON\\python_data.json",
+    "sha256_before": "a1ebccdd8a27a820add2868e1e98fd2167581b4d8a8f34b9f46c908b7eef6f5c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\03_异常处理\\01.基本语法.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\03_异常处理\\01_基本语法.py",
+    "sha256_before": "810904c8b4a7ef2859533f0e8a83a3327425e450a635c6a6ff9c44eea6c3a561",
+    "sha256_after": "810904c8b4a7ef2859533f0e8a83a3327425e450a635c6a6ff9c44eea6c3a561"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\03_异常处理\\02.自定义异常和抛出异常.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\03_异常处理\\02_自定义异常和抛出异常.py",
+    "sha256_before": "ce8c727850149dc99e394c30aca8724763fe51867b6a7d352257bdf747dab696",
+    "sha256_after": "ce8c727850149dc99e394c30aca8724763fe51867b6a7d352257bdf747dab696"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\03_异常处理\\03.小练习.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\03_异常处理\\03_小练习.py",
+    "sha256_before": "4e03f32ecf1b9486fb1357d8a182f97c25b0949cf6df51828029e0a603af6abd",
+    "sha256_after": "4e03f32ecf1b9486fb1357d8a182f97c25b0949cf6df51828029e0a603af6abd"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\01.列表与生成器占用内存对比.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\01_列表与生成器占用内存对比.py",
+    "sha256_before": "33b809fafd91ed45403472f7cb7079f6cea28015ff03911e028d70fbff9f6877",
+    "sha256_after": "33b809fafd91ed45403472f7cb7079f6cea28015ff03911e028d70fbff9f6877"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\02.自定义生成器.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\02_自定义生成器.py",
+    "sha256_before": "94c549b3a03a4862944f2b346f0404336dc0ec02d8f30d34df499967e90c5ce8",
+    "sha256_after": "94c549b3a03a4862944f2b346f0404336dc0ec02d8f30d34df499967e90c5ce8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\03.自定义装饰器.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\03_自定义装饰器.py",
+    "sha256_before": "f3161557814591f1af1f77519c932580e87f0a7c35b4df048ab6e2e41d317e66",
+    "sha256_after": "f3161557814591f1af1f77519c932580e87f0a7c35b4df048ab6e2e41d317e66"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\04.类型注解.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\04_类型注解.py",
+    "sha256_before": "cb267c34667e61cee00d0219067abffeb4ae5ff115b6d8a7cdd856ecd7b9bafd",
+    "sha256_after": "cb267c34667e61cee00d0219067abffeb4ae5ff115b6d8a7cdd856ecd7b9bafd"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\05.测试数据校验神器.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\05_测试数据校验神器.py",
+    "sha256_before": "e4c51712c4a6b71b5ab721afa2efd80a05e9e46bc30164f29d7c7c3377fdfe8c",
+    "sha256_after": "e4c51712c4a6b71b5ab721afa2efd80a05e9e46bc30164f29d7c7c3377fdfe8c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\06.测试异步.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\06_测试异步.py",
+    "sha256_before": "a29008710dc6d8ae1ebc97a9fe1a6c6820a62b78566ff5147928f30aeb12b2b7",
+    "sha256_after": "a29008710dc6d8ae1ebc97a9fe1a6c6820a62b78566ff5147928f30aeb12b2b7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\07.日志打印.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\07_日志打印.py",
+    "sha256_before": "791ad99d50d78ebf1bbe657873e72f391843e04495685fd80096470b6d98c4d2",
+    "sha256_after": "791ad99d50d78ebf1bbe657873e72f391843e04495685fd80096470b6d98c4d2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day04\\04_高级特性\\app.log",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\04_files_exceptions_and_advanced\\04_高级特性\\app.log",
+    "sha256_before": "9ab596cb9c1b62cf18ae7e128171ab2b3c759dc5f6db466459186c7ee4aaf6bb"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day05-调试技巧\\01.调试demo.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\05_debugging\\01_调试_demo.py",
+    "sha256_before": "65de073eb9953245a3a842421889a2a956256381314b8953207d0784baac8606",
+    "sha256_after": "65de073eb9953245a3a842421889a2a956256381314b8953207d0784baac8606"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day05-调试技巧\\02.调试demo-修复版.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\05_debugging\\02_调试_demo_修复版.py",
+    "sha256_before": "42fde4fb83211c1ce6a84b1e6e617123ab90f549275eaea58a52e38f45a27943",
+    "sha256_after": "42fde4fb83211c1ce6a84b1e6e617123ab90f549275eaea58a52e38f45a27943"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day05-调试技巧\\README.md",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\05_debugging\\README.md",
+    "sha256_before": "f9af2abe24267c936e9cdc80183a024283a76ea74d44d888014cbee631866f08",
+    "sha256_after": "a531713b9cc2959e2d767b210ac46fb9fb7f0392e44302ff8b019908a8cf71dc"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day06-practice\\.gitignore",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\06_practice\\.gitignore",
+    "sha256_before": "7f0f0ec52e840f0d6e87dac81ba0dc03037636d942525eb6e3bb5a8e3bdf8dbf"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day06-practice\\expense_tracker.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\06_practice\\expense_tracker.py",
+    "sha256_before": "bc320505ab4d10392360fa5a04e4fcd30973447d1dfa10945cd2adbf66dece4b",
+    "sha256_after": "bc320505ab4d10392360fa5a04e4fcd30973447d1dfa10945cd2adbf66dece4b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day06-practice\\python_syntax_practice.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\06_practice\\python_syntax_practice.py",
+    "sha256_before": "763634b6b0023c174cc193e8e6019937596bedf52aa7da980209b4f767ed5bd2",
+    "sha256_after": "763634b6b0023c174cc193e8e6019937596bedf52aa7da980209b4f767ed5bd2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day06-practice\\README.md",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\06_practice\\README.md",
+    "sha256_before": "be3f17142c270bf7930ae772649db3ab20ccecd13a1df7d38fec5788233656bc",
+    "sha256_after": "8569ae190155924bf4b918b3d77b6ee904cdcae8a8a74d07d66800f6342e28e6"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\day06-practice\\student_basics.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\06_practice\\student_basics.py",
+    "sha256_before": "6cb21249fd79c8c532f7f856cc2fdcc42a32d612edb8bc6baf3cb5acc99d7da9",
+    "sha256_after": "6cb21249fd79c8c532f7f856cc2fdcc42a32d612edb8bc6baf3cb5acc99d7da9"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1101_practice\\python_ecommerce_order_practice.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\07_comprehensive_practice\\python_ecommerce_order_practice.py",
+    "sha256_before": "a7fceb507e245e0945b20dad1fd1cbc770a7c68d2836fcd2119f1a34b71c85d6",
+    "sha256_after": "a7fceb507e245e0945b20dad1fd1cbc770a7c68d2836fcd2119f1a34b71c85d6"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1101_practice\\python_syntax_practice.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\07_comprehensive_practice\\python_syntax_practice.py",
+    "sha256_before": "da68164408953007b3e8596abfba5e392b49295d6934ecaec3910eecf53d7ef3",
+    "sha256_after": "da68164408953007b3e8596abfba5e392b49295d6934ecaec3910eecf53d7ef3"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1101_practice\\student_basics.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\07_comprehensive_practice\\student_basics.py",
+    "sha256_before": "a34c140216b6f09656e5efc134c03ed78410f07d2cc2d62ca58a65e303ca1c41",
+    "sha256_after": "a34c140216b6f09656e5efc134c03ed78410f07d2cc2d62ca58a65e303ca1c41"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1101_practice\\test_importy.py",
+    "new": "D:\\python\\python_grammar\\01_python_basics\\07_comprehensive_practice\\module_import_demo.py",
+    "sha256_before": "813518e114e6f1cebcd145bcf5026f00304a29a1348a582c1f3e3df02bc3ba0f",
+    "sha256_after": "813518e114e6f1cebcd145bcf5026f00304a29a1348a582c1f3e3df02bc3ba0f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\.env",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\.env",
+    "sha256_before": "d2f1827d2760a5da8c68383f15afd78d5805b33093c0b848f6573ce7ef814708"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\.env.example",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\.env.example",
+    "sha256_before": "af82ac106f3d813acb43111de1f013b9737626f079a9288d04df043abb409c03"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\.gitignore",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\.gitignore",
+    "sha256_before": "c7d1241931c83a4c4bed4480ff73ba9ecf0707220ac819e2974a827a045a8afb"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\database.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\database.py",
+    "sha256_before": "dad1546c7e9d3a8902818301b38201a747d8ee56696de555d6ef29050a341620",
+    "sha256_after": "dad1546c7e9d3a8902818301b38201a747d8ee56696de555d6ef29050a341620"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\main.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\main.py",
+    "sha256_before": "223807b846223e965d024c5679fa50f271c7e38601536a20c06ec5d5e421f760",
+    "sha256_after": "223807b846223e965d024c5679fa50f271c7e38601536a20c06ec5d5e421f760"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\models.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\models.py",
+    "sha256_before": "32cd753f4097600bfc50a876c5a17e67c7bdb87030ef266c406cec38ce3011b9",
+    "sha256_after": "32cd753f4097600bfc50a876c5a17e67c7bdb87030ef266c406cec38ce3011b9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\README.md",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\README.md",
+    "sha256_before": "da65b50575b1f65a9dbf9faf4b26955ba114ae097ca24890ee7b76f389155610",
+    "sha256_after": "21dd10db152cd8b6132e1befb1a66eb31044e819cb2581fb52236079b4781bad"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\requirements.txt",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\requirements.txt",
+    "sha256_before": "2d1af95768f77ea491a0022d1fec2926aab8711b397601436ca48c2ff0bc07e4"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\schemas.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\schemas.py",
+    "sha256_before": "ad7b8a35c728ac9228a6c758ebd5ffb09f59e4ddca5af1848c77965555892702",
+    "sha256_after": "ad7b8a35c728ac9228a6c758ebd5ffb09f59e4ddca5af1848c77965555892702"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\fastapi_sqlalchemy_demo\\test_app.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\01_department_employee_crud\\test_app.py",
+    "sha256_before": "abfa46f5712ba36811313e63561d310528bc28e858a433eaad153d3e4d746226",
+    "sha256_after": "abfa46f5712ba36811313e63561d310528bc28e858a433eaad153d3e4d746226"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\.env",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\.env",
+    "sha256_before": "d2f1827d2760a5da8c68383f15afd78d5805b33093c0b848f6573ce7ef814708"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\.gitignore",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\.gitignore",
+    "sha256_before": "c7d1241931c83a4c4bed4480ff73ba9ecf0707220ac819e2974a827a045a8afb"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\database.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\database.py",
+    "sha256_before": "50e164d6c42907c8339c2280db147151f588060d1edc3b241cff10e0a68fcc54",
+    "sha256_after": "50e164d6c42907c8339c2280db147151f588060d1edc3b241cff10e0a68fcc54"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\main.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\main.py",
+    "sha256_before": "838acbcf59939e26f29aca3b641d909bed760e66b10b3262d3a4d601ce33b011",
+    "sha256_after": "838acbcf59939e26f29aca3b641d909bed760e66b10b3262d3a4d601ce33b011"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\models.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\models.py",
+    "sha256_before": "39a9b6c7a6106a963b423b7600e6646862a4cce37506a7e81731869b12e75e12",
+    "sha256_after": "39a9b6c7a6106a963b423b7600e6646862a4cce37506a7e81731869b12e75e12"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\README.md",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\README.md",
+    "sha256_before": "da65b50575b1f65a9dbf9faf4b26955ba114ae097ca24890ee7b76f389155610",
+    "sha256_after": "75c2329459ec90b9ee6b6213f1b869d3bd0b834d5b5c2cd52b36ad646bf96cef"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\requirements.txt",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\requirements.txt",
+    "sha256_before": "2d1af95768f77ea491a0022d1fec2926aab8711b397601436ca48c2ff0bc07e4"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\schemas.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\schemas.py",
+    "sha256_before": "fe251f1f3eec56a5577e89e6a7595fbfec291ac37e73c11b04a83977f73f4cb5",
+    "sha256_after": "fe251f1f3eec56a5577e89e6a7595fbfec291ac37e73c11b04a83977f73f4cb5"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\test.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\orm_crud_practice.py",
+    "sha256_before": "1c59b6fa05e170c09ad8a78565bd492696cf68bd0e8e607249a30b96bffb9621",
+    "sha256_after": "1c59b6fa05e170c09ad8a78565bd492696cf68bd0e8e607249a30b96bffb9621"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\test_app.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\test_app.py",
+    "sha256_before": "abfa46f5712ba36811313e63561d310528bc28e858a433eaad153d3e4d746226",
+    "sha256_after": "abfa46f5712ba36811313e63561d310528bc28e858a433eaad153d3e4d746226"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\routers\\item.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\routers\\item.py",
+    "sha256_before": "cb7a6fd263e1f604b468b52ce761580c78d759d73082a902043ae6e55cf982c6",
+    "sha256_after": "cb7a6fd263e1f604b468b52ce761580c78d759d73082a902043ae6e55cf982c6"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\1102_fastapi_sqlalchemy_demo\\routers\\user.py",
+    "new": "D:\\python\\python_grammar\\02_fastapi\\02_routing_and_orm_practice\\routers\\user.py",
+    "sha256_before": "2d043f744c75bce2a7754a084cf75f422f95d4be252dc5f0f61c4928c8860468",
+    "sha256_after": "2d043f744c75bce2a7754a084cf75f422f95d4be252dc5f0f61c4928c8860468"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\01_helloworld\\GetEnvInfo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\01_hello_world\\get_env_info.py",
+    "sha256_before": "b28d9f9402ca180927bec2f37d8764a98cf7842a2a6c06f487377defac797dfe",
+    "sha256_after": "b28d9f9402ca180927bec2f37d8764a98cf7842a2a6c06f487377defac797dfe"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\01_helloworld\\LangChainV0.3.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\01_hello_world\\lang_chain_v0_3.py",
+    "sha256_before": "3359adbee1dd2e3c06c78d668844752c27febf3ecccfb665eaf78afc5323ad14",
+    "sha256_after": "3359adbee1dd2e3c06c78d668844752c27febf3ecccfb665eaf78afc5323ad14"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\01_helloworld\\LangChainV1.0.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\01_hello_world\\lang_chain_v1_0.py",
+    "sha256_before": "51d02d651349dfa35fc3c3a00ebc64898670bd2cf460fb7ce6671c78b84d3abf",
+    "sha256_after": "51d02d651349dfa35fc3c3a00ebc64898670bd2cf460fb7ce6671c78b84d3abf"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\01_helloworld\\LangChain_MoreV1.0.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\01_hello_world\\lang_chain_more_v1_0.py",
+    "sha256_before": "f51f020ec80aa3c13acc2c56079a2df30a816b693b77a69ce254d7494d9ed44f",
+    "sha256_after": "f51f020ec80aa3c13acc2c56079a2df30a816b693b77a69ce254d7494d9ed44f"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\01_helloworld\\StandardDesc.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\01_hello_world\\standard_desc.py",
+    "sha256_before": "84957e912dc5511fac7578b3c736d184f303fac7a06933d744682ab62e785f1d",
+    "sha256_after": "84957e912dc5511fac7578b3c736d184f303fac7a06933d744682ab62e785f1d"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\02_models_io\\ModelIO_ChatOpenAI.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\02_model_io\\model_io_chat_open_ai.py",
+    "sha256_before": "273f48235bb27db1eddc9c1f83f93d0c985ee986d90d6e2b273e1a0bc276fd4b",
+    "sha256_after": "273f48235bb27db1eddc9c1f83f93d0c985ee986d90d6e2b273e1a0bc276fd4b"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\02_models_io\\ModelIO_DeepSeek.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\02_model_io\\model_io_deep_seek.py",
+    "sha256_before": "b6f06ccd1df22357afaffaf7ab0ac84376978ac3c4ff73ac72b567844184ca5d",
+    "sha256_after": "b6f06ccd1df22357afaffaf7ab0ac84376978ac3c4ff73ac72b567844184ca5d"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\02_models_io\\ModelIO_Init_chat_model.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\02_model_io\\model_io_init_chat_model.py",
+    "sha256_before": "49cf4481b91fb18cfb2e2cc46b9bcb4e353d289720a21bedd02ffc4d3aaeb912",
+    "sha256_after": "49cf4481b91fb18cfb2e2cc46b9bcb4e353d289720a21bedd02ffc4d3aaeb912"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\02_models_io\\ModelIO_Ollama.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\02_model_io\\model_io_ollama.py",
+    "sha256_before": "d75fd82bed3681a578e272234ea7cba0dd74c68962580e0e282cd8c28b026adc",
+    "sha256_after": "d75fd82bed3681a578e272234ea7cba0dd74c68962580e0e282cd8c28b026adc"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\02_models_io\\ModelIO_OpenAI.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\02_model_io\\model_io_open_ai.py",
+    "sha256_before": "7093b307f1a3adf920de3b70077ea0082d908b52df2dde57d8a13cc84aa51fcf",
+    "sha256_after": "7093b307f1a3adf920de3b70077ea0082d908b52df2dde57d8a13cc84aa51fcf"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\02_models_io\\ModelIO_Params.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\02_model_io\\model_io_params.py",
+    "sha256_before": "c0dc5d9644e84ba0183a73f9e96606a41aa276e4bd98c8a85904f59440b1c493",
+    "sha256_after": "c0dc5d9644e84ba0183a73f9e96606a41aa276e4bd98c8a85904f59440b1c493"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\02_models_io\\ModelIO_Qwen.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\02_model_io\\model_io_qwen.py",
+    "sha256_before": "0774e114240b8324e1544fb75941accca1c986967d5fc034e151de6a0dda82a9",
+    "sha256_after": "0774e114240b8324e1544fb75941accca1c986967d5fc034e151de6a0dda82a9"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\03_ollama\\LangChain_Ollama.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\03_ollama\\lang_chain_ollama.py",
+    "sha256_before": "a2ca7317991fa4fbc941e19d5d039270d75675f2ebef1052f7f96fbeb1511a7a",
+    "sha256_after": "a2ca7317991fa4fbc941e19d5d039270d75675f2ebef1052f7f96fbeb1511a7a"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\ImportPromptEnv.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\import_prompt_env.py",
+    "sha256_before": "aa6de0d0e3cff3aafa8162e1e33d7d0ee99bee15cab93dc2e7e4a5233ce2b575",
+    "sha256_after": "aa6de0d0e3cff3aafa8162e1e33d7d0ee99bee15cab93dc2e7e4a5233ce2b575"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\chat_prompt_template\\ChatPromptTemplate_Constructor.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\chat_prompt_templates\\chat_prompt_template_constructor.py",
+    "sha256_before": "439ed616df800bbafd6b4511a17571fe98c5f42b45f27686a9119e3a88b8db3d",
+    "sha256_after": "439ed616df800bbafd6b4511a17571fe98c5f42b45f27686a9119e3a88b8db3d"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\chat_prompt_template\\ChatPromptTemplate_FormatMessages.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\chat_prompt_templates\\chat_prompt_template_format_messages.py",
+    "sha256_before": "b92ebd109fb5cc871603380eb86966564dc470eff20a146fa287b4896f85eb35",
+    "sha256_after": "b92ebd109fb5cc871603380eb86966564dc470eff20a146fa287b4896f85eb35"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\chat_prompt_template\\parameter\\ChatPromptTemplate_DictParam.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\chat_prompt_templates\\parameters\\chat_prompt_template_dict_param.py",
+    "sha256_before": "a1c2dd3715bb394d6a1b56c63d4b80794318eae3d63680642eb02c34128a314f",
+    "sha256_after": "a1c2dd3715bb394d6a1b56c63d4b80794318eae3d63680642eb02c34128a314f"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\chat_prompt_template\\parameter\\ChatPromptTemplate_MessageParam.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\chat_prompt_templates\\parameters\\chat_prompt_template_message_param.py",
+    "sha256_before": "a6daf1242ad4053916bc7cd625c5ab644d5cf1c1b75a0656d210c79382dade9e",
+    "sha256_after": "a6daf1242ad4053916bc7cd625c5ab644d5cf1c1b75a0656d210c79382dade9e"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\chat_prompt_template\\parameter\\ChatPromptTemplate_TupleParam.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\chat_prompt_templates\\parameters\\chat_prompt_template_tuple_param.py",
+    "sha256_before": "450ecf7d36519bce0bbe11af70a215a2857f7eccb33b18fb0ef2706a1dea7a5e",
+    "sha256_after": "450ecf7d36519bce0bbe11af70a215a2857f7eccb33b18fb0ef2706a1dea7a5e"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\chat_prompt_template\\placeholder\\ChatPromptTemplate_ExplicitPlaceholder.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\chat_prompt_templates\\placeholders\\chat_prompt_template_explicit_placeholder.py",
+    "sha256_before": "d2f1ee8924fc1e62c2845f609adb045f660678788a4f37dbcd345de4d3c4cb3a",
+    "sha256_after": "d2f1ee8924fc1e62c2845f609adb045f660678788a4f37dbcd345de4d3c4cb3a"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\chat_prompt_template\\placeholder\\ChatPromptTemplate_ImplicitPlaceholder.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\chat_prompt_templates\\placeholders\\chat_prompt_template_implicit_placeholder.py",
+    "sha256_before": "f05f81833efa65a8a7915b7230acfe63e832cee1c441141d3afdb5a36d2c5e7b",
+    "sha256_after": "f05f81833efa65a8a7915b7230acfe63e832cee1c441141d3afdb5a36d2c5e7b"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\invoke\\LLM_aBatch.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\model_calls\\llm_async_batch.py",
+    "sha256_before": "0fabf625ddb26c33d29cc7b86b50129cce069ecde2272f66c43d3bd0ac2236b0",
+    "sha256_after": "0fabf625ddb26c33d29cc7b86b50129cce069ecde2272f66c43d3bd0ac2236b0"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\invoke\\LLM_aInvoke.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\model_calls\\llm_async_invoke.py",
+    "sha256_before": "016731bdfe3868652522cce0c818dc1fa496a618ed290245c0bfba88bb29e67c",
+    "sha256_after": "016731bdfe3868652522cce0c818dc1fa496a618ed290245c0bfba88bb29e67c"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\invoke\\LLM_aStream.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\model_calls\\llm_async_stream.py",
+    "sha256_before": "62752c9f0b5c66fc7d28cdf011a412525151e0deb7eec0a058f8bfcd0c6d03ab",
+    "sha256_after": "62752c9f0b5c66fc7d28cdf011a412525151e0deb7eec0a058f8bfcd0c6d03ab"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\invoke\\LLM_Batch.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\model_calls\\llm_batch.py",
+    "sha256_before": "40318dd5c2ab6ca5465d492e25dccb94a2422ad30d9f211079a4479ecdbb87d2",
+    "sha256_after": "40318dd5c2ab6ca5465d492e25dccb94a2422ad30d9f211079a4479ecdbb87d2"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\invoke\\LLM_Invoke.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\model_calls\\llm_invoke.py",
+    "sha256_before": "906c25442dc2228831669849df37af3803c4542fdd42bcbb31bdb6264d429ba0",
+    "sha256_after": "906c25442dc2228831669849df37af3803c4542fdd42bcbb31bdb6264d429ba0"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\invoke\\LLM_Stream.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\model_calls\\llm_stream.py",
+    "sha256_before": "c60872acc4c6e1edcaadb01bd86ffff75621b98b4a24d66f3c57785a8899c571",
+    "sha256_after": "c60872acc4c6e1edcaadb01bd86ffff75621b98b4a24d66f3c57785a8899c571"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\load_external\\prompt.json",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\external_prompts\\prompt.json",
+    "sha256_before": "fe864fe364059bb14fb6a34205b46e2fcebccf8bb6b91d3433007369c664d899"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\load_external\\prompt.yaml",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\external_prompts\\prompt.yaml",
+    "sha256_before": "fa8e5348ba3d11754cd947879d9aca1020eb8acbc6d3fb4d0f70be46d452f2b5"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\load_external\\PromptLoadDemo01.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\external_prompts\\load_json_prompt.py",
+    "sha256_before": "0a1774122431580868c1aacbc647cca6b4aa08036355ae71112eb8d2ab7f8004",
+    "sha256_after": "0a1774122431580868c1aacbc647cca6b4aa08036355ae71112eb8d2ab7f8004"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\load_external\\PromptLoadDemo02.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\external_prompts\\load_yaml_prompt.py",
+    "sha256_before": "bc47e850682d7145c4c9dc434be1af7aabe279c61fe65fc1095854e03c3ece94",
+    "sha256_after": "bc47e850682d7145c4c9dc434be1af7aabe279c61fe65fc1095854e03c3ece94"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\prompt_templates\\PromptTemplate_Combined.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\prompt_templates\\prompt_template_combined.py",
+    "sha256_before": "38e5b4b92b0225ae3f656b00210a09dd844b64c179510cb0b4e180329212131d",
+    "sha256_after": "38e5b4b92b0225ae3f656b00210a09dd844b64c179510cb0b4e180329212131d"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\prompt_templates\\PromptTemplate_Constructor.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\prompt_templates\\prompt_template_constructor.py",
+    "sha256_before": "ef2697e3aa962443926bd3468c0f1cff088ef7927e738282215cb37a4f6780c0",
+    "sha256_after": "ef2697e3aa962443926bd3468c0f1cff088ef7927e738282215cb37a4f6780c0"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\prompt_templates\\PromptTemplate_FromTemplate.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\prompt_templates\\prompt_template_from_template.py",
+    "sha256_before": "0a564f07436793d893820273f2ea0ee4341f7bb6fb15a17be3d79f8227dbc075",
+    "sha256_after": "0a564f07436793d893820273f2ea0ee4341f7bb6fb15a17be3d79f8227dbc075"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\prompt_templates\\PromptTemplate_PartialVariables.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\prompt_templates\\prompt_template_partial_variables.py",
+    "sha256_before": "1e33fc6bfc7af652a2b234dd8feb8a62699ef220f792a5da6a1936c45d27563c",
+    "sha256_after": "1e33fc6bfc7af652a2b234dd8feb8a62699ef220f792a5da6a1936c45d27563c"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\prompt_templates\\method\\PromptTemplate_FormatMethod.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\prompt_templates\\methods\\prompt_template_format_method.py",
+    "sha256_before": "767a869670696de73da9e76684216861d139724f9d7c3499b037fb3eef886cd1",
+    "sha256_after": "767a869670696de73da9e76684216861d139724f9d7c3499b037fb3eef886cd1"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\prompt_templates\\method\\PromptTemplate_InvokeMethod.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\prompt_templates\\methods\\prompt_template_invoke_method.py",
+    "sha256_before": "8e2d3f8cd9beeaacb9ba5260bb7592a87cc175b1a5cfa012922f5212c7444b64",
+    "sha256_after": "8e2d3f8cd9beeaacb9ba5260bb7592a87cc175b1a5cfa012922f5212c7444b64"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\04_prompt\\prompt_templates\\method\\PromptTemplate_PartialMethod.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\04_prompts\\prompt_templates\\methods\\prompt_template_partial_method.py",
+    "sha256_before": "4f143f4b080d87cf4a13d45672da014d4ef52c1865dc098e28e7590252c7c26c",
+    "sha256_after": "4f143f4b080d87cf4a13d45672da014d4ef52c1865dc098e28e7590252c7c26c"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\05_parser\\AnnotatedPydantic.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\05_output_parsers\\annotated_pydantic.py",
+    "sha256_before": "e7a4db3aaa31040545567310177b90187301738231f0ed7384ad640d357ebeb9",
+    "sha256_after": "e7a4db3aaa31040545567310177b90187301738231f0ed7384ad640d357ebeb9"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\05_parser\\AnnotatedTypedDict.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\05_output_parsers\\annotated_typed_dict.py",
+    "sha256_before": "16a5cf7673e8ca773a894b04e24de0deda70eaad871844fec355b1e279384f34",
+    "sha256_after": "16a5cf7673e8ca773a894b04e24de0deda70eaad871844fec355b1e279384f34"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\05_parser\\JsonOutputParserDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\05_output_parsers\\json_output_parser_demo.py",
+    "sha256_before": "7ac98dea1e5d8f93038e653b955b9794ae3e74c7471155ea562fcc4d58a25e8b",
+    "sha256_after": "7ac98dea1e5d8f93038e653b955b9794ae3e74c7471155ea562fcc4d58a25e8b"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\05_parser\\JsonOutputParser_GetFormatInstructions.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\05_output_parsers\\json_output_parser_get_format_instructions.py",
+    "sha256_before": "0070c04c46147c29ef0e5eb9c49b597c4d2aae31c883d43aada5f8445ab88955",
+    "sha256_after": "0070c04c46147c29ef0e5eb9c49b597c4d2aae31c883d43aada5f8445ab88955"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\05_parser\\StrOutputParserDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\05_output_parsers\\str_output_parser_demo.py",
+    "sha256_before": "1bec211245f12c1b261a89a4d72da8d3647d46a51f772d5885e0a02d6d86d986",
+    "sha256_after": "1bec211245f12c1b261a89a4d72da8d3647d46a51f772d5885e0a02d6d86d986"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\05_parser\\StructuredOutput_Pydantic.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\05_output_parsers\\structured_output_pydantic.py",
+    "sha256_before": "b576456123e217262e47a8479d075ed24597a40ddf9c86e74c41e37b4c01e242",
+    "sha256_after": "b576456123e217262e47a8479d075ed24597a40ddf9c86e74c41e37b4c01e242"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\05_parser\\StructuredOutput_TypedDict.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\05_output_parsers\\structured_output_typed_dict.py",
+    "sha256_before": "fe0bd7a3b985ee267f13040ec573622e285fa58861b35a235a4cda90ec92b8fd",
+    "sha256_after": "fe0bd7a3b985ee267f13040ec573622e285fa58861b35a235a4cda90ec92b8fd"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\06_lcel\\LCEL_RunnableBranchDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\06_lcel\\lcel_runnable_branch_demo.py",
+    "sha256_before": "63a0ca71383f5227dace3b4157721704acf64f17c52d3c5a8d7736e0e41d1ecb",
+    "sha256_after": "63a0ca71383f5227dace3b4157721704acf64f17c52d3c5a8d7736e0e41d1ecb"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\06_lcel\\LCEL_RunnableLambdaDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\06_lcel\\lcel_runnable_lambda_demo.py",
+    "sha256_before": "a5d29b2b01b9efa614abee727f174952f32200b54407c27a3513c8d32422cff9",
+    "sha256_after": "a5d29b2b01b9efa614abee727f174952f32200b54407c27a3513c8d32422cff9"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\06_lcel\\LCEL_RunnableParallelDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\06_lcel\\lcel_runnable_parallel_demo.py",
+    "sha256_before": "01b0d75d44b5492a9cc6c300637ed83706655fe4121a9a49261f8c802ec9d466",
+    "sha256_after": "01b0d75d44b5492a9cc6c300637ed83706655fe4121a9a49261f8c802ec9d466"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\06_lcel\\LCEL_RunnableSequenceDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\06_lcel\\lcel_runnable_sequence_demo.py",
+    "sha256_before": "4ce11d055b8050787b7398f4fb89d827b747777675dd1f06d04ea4de868ce4be",
+    "sha256_after": "4ce11d055b8050787b7398f4fb89d827b747777675dd1f06d04ea4de868ce4be"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\06_lcel\\LCEL_RunnableSerializableDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\06_lcel\\lcel_runnable_serializable_demo.py",
+    "sha256_before": "387faa070c543c5ad99aef5818c8e52986af2617d581a3bbcaae48ea4b04d561",
+    "sha256_after": "387faa070c543c5ad99aef5818c8e52986af2617d581a3bbcaae48ea4b04d561"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\07_memory\\Memory_IDontKnow.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\07_memory\\memory_i_dont_know.py",
+    "sha256_before": "fbc064f7d856a3f5347057e138992c07eaf8bc846897c735f37495ff46f0ac5c",
+    "sha256_after": "fbc064f7d856a3f5347057e138992c07eaf8bc846897c735f37495ff46f0ac5c"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\07_memory\\Memory_InMemoryChatMessageHistory.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\07_memory\\memory_in_memory_chat_message_history.py",
+    "sha256_before": "75543d0870048f157e8605fe16910a8f982c1cccf244572b1f7d656c1e3bbb79",
+    "sha256_after": "75543d0870048f157e8605fe16910a8f982c1cccf244572b1f7d656c1e3bbb79"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\07_memory\\Memory_RedisChatMessageHistory.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\07_memory\\memory_redis_chat_message_history.py",
+    "sha256_before": "ed751a1b657597c3b7a690b27e44d6a71b8ffbae38e44913f9e857f9d9d94cc8",
+    "sha256_after": "ed751a1b657597c3b7a690b27e44d6a71b8ffbae38e44913f9e857f9d9d94cc8"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\07_memory\\Memory_RunnableWithMessageHistory.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\07_memory\\memory_runnable_with_message_history.py",
+    "sha256_before": "a56b2306158a190a01a77284f49f659609b433fbb3cfdac49696b264b2f8108f",
+    "sha256_after": "a56b2306158a190a01a77284f49f659609b433fbb3cfdac49696b264b2f8108f"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\07_memory\\Memory_RunnableWithMessageHistoryV2.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\07_memory\\memory_runnable_with_message_history_v2.py",
+    "sha256_before": "5ca41556e2c0aad905475819a9c69dcba1a046b2a3839d0869674b8734d2d482",
+    "sha256_after": "5ca41556e2c0aad905475819a9c69dcba1a046b2a3839d0869674b8734d2d482"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\07_memory\\RedisEnvCheck.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\07_memory\\redis_env_check.py",
+    "sha256_before": "daa2f937538c7449f5820eab401610a12cada31be35c7125918d4aacc117da85",
+    "sha256_after": "daa2f937538c7449f5820eab401610a12cada31be35c7125918d4aacc117da85"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\08_tools\\LLMQueryWeatherDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\08_tools\\llm_query_weather_demo.py",
+    "sha256_before": "e2342f731bde910779787e664dd9380b3329e0d9e1d4a71d3ed74f1d99f76886",
+    "sha256_after": "98760ba1c30677bb7fdf57787b9586be1392ffcaeecdfa54579092f240119700"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\08_tools\\PydanticDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\08_tools\\pydantic_demo.py",
+    "sha256_before": "299fc5f4186931eb1ba36e5fc1ad03186e133baf03430b185d383faa331a62dd",
+    "sha256_after": "299fc5f4186931eb1ba36e5fc1ad03186e133baf03430b185d383faa331a62dd"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\08_tools\\QueryWeatherTool.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\08_tools\\query_weather_tool.py",
+    "sha256_before": "7a7424d64ee82d4eaad64e0af5adb706bbaccbd12722cd46b94092921358101e",
+    "sha256_after": "7a7424d64ee82d4eaad64e0af5adb706bbaccbd12722cd46b94092921358101e"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\08_tools\\Tool_AddNumberTool.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\08_tools\\tool_add_number_tool.py",
+    "sha256_before": "84ea8fd0c018c6b83d59607cdef885693605862dc143dff40bab6551cc14fbc8",
+    "sha256_after": "84ea8fd0c018c6b83d59607cdef885693605862dc143dff40bab6551cc14fbc8"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\08_tools\\Tool_AddNumberToolPro.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\08_tools\\tool_add_number_tool_pro.py",
+    "sha256_before": "4f5aa0509e55d5ce1118c71ba3b2514ca0a274ba619d2cd1875db853a4f9533d",
+    "sha256_after": "4f5aa0509e55d5ce1118c71ba3b2514ca0a274ba619d2cd1875db853a4f9533d"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\09_embedding\\EmbeddingStoreRedis.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\09_embeddings\\embedding_store_redis.py",
+    "sha256_before": "d58d1fb33144bd57fe09a66441f8cd09a8f5a5ebb93f149e91ed900505296cd5",
+    "sha256_after": "d58d1fb33144bd57fe09a66441f8cd09a8f5a5ebb93f149e91ed900505296cd5"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\09_embedding\\Text2Embedding_CosSimilarity.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\09_embeddings\\text2_embedding_cos_similarity.py",
+    "sha256_before": "a9b6ac27d445b260aaf482fb53f66eb595431379f7224fc929c88fed3fd86200",
+    "sha256_after": "a9b6ac27d445b260aaf482fb53f66eb595431379f7224fc929c88fed3fd86200"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\09_embedding\\Text2Embedding_DashScope.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\09_embeddings\\text2_embedding_dash_scope.py",
+    "sha256_before": "f67193c270ffcc3c8c70daa7fce05e2ab8f13f5600ad3955d5b3d46472202f1b",
+    "sha256_after": "f67193c270ffcc3c8c70daa7fce05e2ab8f13f5600ad3955d5b3d46472202f1b"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\09_embedding\\Text2Embedding_DashScopeHello.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\09_embeddings\\text2_embedding_dash_scope_hello.py",
+    "sha256_before": "81ce59eeeeed61453c63bff4e8ac3537151486fa2ef49bb2fa7783d183cdbc7b",
+    "sha256_after": "81ce59eeeeed61453c63bff4e8ac3537151486fa2ef49bb2fa7783d183cdbc7b"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\09_embedding\\Text2Embedding_DashScopePro.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\09_embeddings\\text2_embedding_dash_scope_pro.py",
+    "sha256_before": "b1a197e431409ce47c15b8b0ba2174fb781c4f4201d7c4c08faac201772e84ec",
+    "sha256_after": "b1a197e431409ce47c15b8b0ba2174fb781c4f4201d7c4c08faac201772e84ec"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\09_embedding\\Text2Embedding_OpenAiHello.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\09_embeddings\\text2_embedding_open_ai_hello.py",
+    "sha256_before": "3c3d9b38b31d5e20be9667776e418c64f28ddf1401f3a3f7e0ddaa970aaffcdb",
+    "sha256_after": "3c3d9b38b31d5e20be9667776e418c64f28ddf1401f3a3f7e0ddaa970aaffcdb"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\alibaba-java.docx",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\alibaba-java.docx",
+    "sha256_before": "754824cde845345776bc7745c0c3adcbf29b57327e43054522784862a4a5edea"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\EmbeddingRagLLM.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\embedding_rag_llm.py",
+    "sha256_before": "75f1df7cc81a130521aca82ac2b2f0b748eb52c5293dc50c775111fe4e99ebbd",
+    "sha256_after": "75f1df7cc81a130521aca82ac2b2f0b748eb52c5293dc50c775111fe4e99ebbd"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\RedisVectorStore.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\redis_vector_store.py",
+    "sha256_before": "95d13be22e4b1667e3c1cf36a70a9dff4b719fbbbdf53272a81155ad6b9a842c",
+    "sha256_after": "95d13be22e4b1667e3c1cf36a70a9dff4b719fbbbdf53272a81155ad6b9a842c"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\RedisVectorStore_SimilaritySearch.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\redis_vector_store_similarity_search.py",
+    "sha256_before": "dd49e173310cbf5d3b2b56664e1c612dda2cd88318b4430c61b593e200b87afe",
+    "sha256_after": "dd49e173310cbf5d3b2b56664e1c612dda2cd88318b4430c61b593e200b87afe"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\RagLoadCSVDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\rag_load_csv_demo.py",
+    "sha256_before": "b5bab48211cbc711807a18d4a151d3c32bb3eb27a4dd1102c96689f2e7a9df30",
+    "sha256_after": "b5bab48211cbc711807a18d4a151d3c32bb3eb27a4dd1102c96689f2e7a9df30"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\RagLoadDocDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\rag_load_doc_demo.py",
+    "sha256_before": "035912c1ed1dcf9f1c0b0bb7553891b24cd21e478287452139e42f7121d06bbd",
+    "sha256_after": "035912c1ed1dcf9f1c0b0bb7553891b24cd21e478287452139e42f7121d06bbd"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\RagLoadJsonDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\rag_load_json_demo.py",
+    "sha256_before": "40a1743083fb4525dce24841e10a99716643468c1fe96420e63cccc3d0f3f6c4",
+    "sha256_after": "40a1743083fb4525dce24841e10a99716643468c1fe96420e63cccc3d0f3f6c4"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\RagLoadMarkdownDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\rag_load_markdown_demo.py",
+    "sha256_before": "a97ce3b97a60e75fca68ccc9ff935cb1f7c8ba4dfad70a29d229c98fe3dc56ac",
+    "sha256_after": "a97ce3b97a60e75fca68ccc9ff935cb1f7c8ba4dfad70a29d229c98fe3dc56ac"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\RagLoadPdfDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\rag_load_pdf_demo.py",
+    "sha256_before": "81a549f7d288cc7bc90fb723feca5822ddd853d5f249b0a2af100b3fdd5fc9df",
+    "sha256_after": "81a549f7d288cc7bc90fb723feca5822ddd853d5f249b0a2af100b3fdd5fc9df"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\RagLoadTxtDemo.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\rag_load_txt_demo.py",
+    "sha256_before": "121ec33a988a282f8fd92bad09d426db1cd38264653226c513a3c6d6bfe22b78",
+    "sha256_after": "121ec33a988a282f8fd92bad09d426db1cd38264653226c513a3c6d6bfe22b78"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\alibaba-more.docx",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\alibaba-more.docx",
+    "sha256_before": "43e17a401dc7d69e2a5f9513d96951b087c721e3f1dbfa8aff00cdb8ce951832"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\Doc21.docx",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\Doc21.docx",
+    "sha256_before": "6d9ac10382856815b029437a3233c83e7ee9bb23d14e4e577277eda1d53d9271"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\sample.csv",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\sample.csv",
+    "sha256_before": "275731e84870b70c97afce02c19f3d0493adaf1e86b4fecfae5b43e6270d0e97"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\sample.doc",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\sample.doc",
+    "sha256_before": "f89e85d05a2629e9bad467a4bac951f5ca0fa0c089adc8a66cde955959c1c592"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\sample.json",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\sample.json",
+    "sha256_before": "ccc17360f1a5bcc99b69cdb4221955bebee5c63f788b2bd63d2e9fbb91f771c8"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\sample.md",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\sample.md",
+    "sha256_before": "a4cf05466886656a5ad25efdace0829b2317efd51f1e4d0194d7c416ca21adc0",
+    "sha256_after": "a4cf05466886656a5ad25efdace0829b2317efd51f1e4d0194d7c416ca21adc0"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\sample.pdf",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\sample.pdf",
+    "sha256_before": "1186553e55659f07f1a2a68babab09c6d8814e2de3efb45729f71ed984201a05"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\docloads\\assets\\sample.txt",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\document_loaders\\assets\\sample.txt",
+    "sha256_before": "a9390b98038bf3c2d70c9d18e3307dd80099eeed2e71cbcdb1a113d2b6b58243"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\textsplit\\rag.txt",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\text_splitters\\rag.txt",
+    "sha256_before": "d9d1407c9262407be244ddc7cec9d9572dd1e1417e95406c05a7df0c5d919512"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\textsplit\\RecursiveDocumentSplitter.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\text_splitters\\recursive_document_splitter.py",
+    "sha256_before": "7e4df19b6b93e5f54ecf2f92818d768f82d2e8bf9560430df1ec91ed33a92ca8",
+    "sha256_after": "7e4df19b6b93e5f54ecf2f92818d768f82d2e8bf9560430df1ec91ed33a92ca8"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\textsplit\\RecursiveTextSplitter.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\text_splitters\\recursive_text_splitter.py",
+    "sha256_before": "9f4d751e49ab4463aecf66832a993b6aa10b440dd028bad42f35b6a48b44eb3d",
+    "sha256_after": "9f4d751e49ab4463aecf66832a993b6aa10b440dd028bad42f35b6a48b44eb3d"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\10_rag\\textsplit\\RecursiveTextSplitterV2.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\10_rag\\text_splitters\\recursive_text_splitter_v2.py",
+    "sha256_before": "4cd2c2a74555a0b98e87e86cdd50edbdf5dd1621ed4e1fbab1d85f4344421104",
+    "sha256_after": "4cd2c2a74555a0b98e87e86cdd50edbdf5dd1621ed4e1fbab1d85f4344421104"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\11_mcp\\McpClient.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\11_mcp\\mcp_client.py",
+    "sha256_before": "b11a4e41655c86bc7b06ac9ee69d25b5e2e59ebe1293a7dc0c0118e5860e8094",
+    "sha256_after": "a63bd3f510bcad80915d429c787a74433092c21fe97d9873a1d4cfc66cdf46fb"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\11_mcp\\McpServer.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\11_mcp\\mcp_server.py",
+    "sha256_before": "e8880b45d73a3baf761744d9da8b4dc2e60bb097290e2e87e4a776e98dd6946e",
+    "sha256_after": "e8880b45d73a3baf761744d9da8b4dc2e60bb097290e2e87e4a776e98dd6946e"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\11_mcp\\McpServerByFastMCP.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\11_mcp\\mcp_server_by_fast_mcp.py",
+    "sha256_before": "007a4f73ec9cd811d2c993e4fbd6b90ecfa127fd903f769804293b6eaf261e83",
+    "sha256_after": "007a4f73ec9cd811d2c993e4fbd6b90ecfa127fd903f769804293b6eaf261e83"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\12_agent\\Agent2Agent.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\12_agents\\agent2_agent.py",
+    "sha256_before": "877ca85f68dc676b80046f3f8b0c7e6cc72ecbc7d464838885f14ad89e57d4de",
+    "sha256_after": "877ca85f68dc676b80046f3f8b0c7e6cc72ecbc7d464838885f14ad89e57d4de"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\12_agent\\AgentReact.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\12_agents\\agent_react.py",
+    "sha256_before": "db9d22ed7b9bf328e81e81305e421e3cee3b3ed9808f336dc444e7ed303bf1b1",
+    "sha256_after": "db9d22ed7b9bf328e81e81305e421e3cee3b3ed9808f336dc444e7ed303bf1b1"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\12_agent\\AgentSmartSelectV0.3.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\12_agents\\agent_smart_select_v0_3.py",
+    "sha256_before": "86083d9883bff94f5a739c650f7290ce39ce971abedfdafeaf71f33766d1367a",
+    "sha256_after": "86083d9883bff94f5a739c650f7290ce39ce971abedfdafeaf71f33766d1367a"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\langchain\\12_agent\\AgentSmartSelectV1.0.py",
+    "new": "D:\\python\\python_grammar\\03_langchain\\12_agents\\agent_smart_select_v1_0.py",
+    "sha256_before": "e84912735df22b0fe155ef08deb619164165b2390a1eb4b25398df400ca84cb3",
+    "sha256_after": "e84912735df22b0fe155ef08deb619164165b2390a1eb4b25398df400ca84cb3"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\Hello.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\Hello.py",
+    "sha256_before": "3a3bea659deacd6e9e9018004a71f31645b6330322084af3aed3b4f58c569508",
+    "sha256_after": "3a3bea659deacd6e9e9018004a71f31645b6330322084af3aed3b4f58c569508"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\hello.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\hello.py",
+    "sha256_before": "044b341c08355d21d56fac3f3f82fcb384f1cf07d9467bb9ccf24e46c17b262e",
+    "sha256_after": "044b341c08355d21d56fac3f3f82fcb384f1cf07d9467bb9ccf24e46c17b262e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p01_注释.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p01_注释.py",
+    "sha256_before": "3ce359072366329d3ef47c03356cceb4f64afc5ab855c8612e7b44a18074983d",
+    "sha256_after": "3ce359072366329d3ef47c03356cceb4f64afc5ab855c8612e7b44a18074983d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p02_关键字.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p02_关键字.py",
+    "sha256_before": "9bb8b0bfb2404ad8e33412e441b162762bb266dd30e69e79bbf42876a4124b99",
+    "sha256_after": "9bb8b0bfb2404ad8e33412e441b162762bb266dd30e69e79bbf42876a4124b99"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p03_变量.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p03_变量.py",
+    "sha256_before": "e1b2e31e17649e42228e872c5317c12222f66f37700e1e7963956beb07c90a49",
+    "sha256_after": "e1b2e31e17649e42228e872c5317c12222f66f37700e1e7963956beb07c90a49"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p04_常量.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p04_常量.py",
+    "sha256_before": "6fc4aee13e2e209edd50f8d3645907aa4abce4724665c6594148ff6a38b7b5a6",
+    "sha256_after": "6fc4aee13e2e209edd50f8d3645907aa4abce4724665c6594148ff6a38b7b5a6"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p05_标识符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p05_标识符.py",
+    "sha256_before": "e3cfc9886c474f2d0f6a40f904034fb44c75b589e42b684c0b097d309db89949",
+    "sha256_after": "e3cfc9886c474f2d0f6a40f904034fb44c75b589e42b684c0b097d309db89949"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p06_整数数据类型.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p06_整数数据类型.py",
+    "sha256_before": "be691f6012a0c9edecee3e5aeda0748d56a76f2c8b5af384cb9bddcadc30ccab",
+    "sha256_after": "be691f6012a0c9edecee3e5aeda0748d56a76f2c8b5af384cb9bddcadc30ccab"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p07_小数类型.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p07_小数类型.py",
+    "sha256_before": "bca82c6fcae68a751d48bd52fdec7fe0c4ea1d7331bcc0241fe6888c9d52053f",
+    "sha256_after": "bca82c6fcae68a751d48bd52fdec7fe0c4ea1d7331bcc0241fe6888c9d52053f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p08_布尔类型.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p08_布尔类型.py",
+    "sha256_before": "feb096f88fdcb50bb848c8af4578009e80820ae747d0d92ea1b5728e3fd941b3",
+    "sha256_after": "feb096f88fdcb50bb848c8af4578009e80820ae747d0d92ea1b5728e3fd941b3"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p09_字符串类型.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p09_字符串类型.py",
+    "sha256_before": "f1df409ea023950e97e4c2e920aaefef90eafc9a3ba9238aa40f304746c41b67",
+    "sha256_after": "f1df409ea023950e97e4c2e920aaefef90eafc9a3ba9238aa40f304746c41b67"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p10_编码与解码的概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p10_编码与解码的概念.py",
+    "sha256_before": "f02cbd73b765ccc63c1db5fdbdb22ac5a606a814e33520b2481d7305ce7374a1",
+    "sha256_after": "f02cbd73b765ccc63c1db5fdbdb22ac5a606a814e33520b2481d7305ce7374a1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p11_数据类型转换.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p11_数据类型转换.py",
+    "sha256_before": "cf91eddce917c4836ac20bea4ea0a73f1bc676115c3dffa2bb0cc39b9791b56b",
+    "sha256_after": "cf91eddce917c4836ac20bea4ea0a73f1bc676115c3dffa2bb0cc39b9791b56b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p12_print.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p12_print.py",
+    "sha256_before": "5bafccba95f14ae566e08be85a0f50f23fac95e1ebbdcf60d834375113942b19",
+    "sha256_after": "5bafccba95f14ae566e08be85a0f50f23fac95e1ebbdcf60d834375113942b19"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day01\\day01_code\\p13_算术运算符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day01\\day01_code\\p13_算术运算符.py",
+    "sha256_before": "d730c70ccbb6f3b57b9dc2673672a14d49161e0ce39d15f2351f693f8437d85f",
+    "sha256_after": "d730c70ccbb6f3b57b9dc2673672a14d49161e0ce39d15f2351f693f8437d85f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p01_晨考题.py",
+    "sha256_before": "f7a63395e308edfc52158a079d73548dea677cb394303c11d4bef80ec03fccf5",
+    "sha256_after": "f7a63395e308edfc52158a079d73548dea677cb394303c11d4bef80ec03fccf5"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p02_赋值运算符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p02_赋值运算符.py",
+    "sha256_before": "9cee56e4e9eb1b70af5b5579dcb67d4e461484bbd15bd77dca08ceff05e19e65",
+    "sha256_after": "9cee56e4e9eb1b70af5b5579dcb67d4e461484bbd15bd77dca08ceff05e19e65"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p03_变量_补充.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p03_变量_补充.py",
+    "sha256_before": "a667ceea02463e2fb880816acf24d2bc6d9706cc7350e5ffc3590ee7cd8f08bb",
+    "sha256_after": "a667ceea02463e2fb880816acf24d2bc6d9706cc7350e5ffc3590ee7cd8f08bb"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p04_比较运算符和身份运算符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p04_比较运算符和身份运算符.py",
+    "sha256_before": "d3a5f1b882bf1effcde164b1478849a660858b6218a64e4d6b1dc1024539ffcb",
+    "sha256_after": "d3a5f1b882bf1effcde164b1478849a660858b6218a64e4d6b1dc1024539ffcb"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p05_逻辑运算符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p05_逻辑运算符.py",
+    "sha256_before": "6db479b71c85c830235e43574d9b20b37b1deb77b2b1ba7a3b2a729f0eeb99e0",
+    "sha256_after": "6db479b71c85c830235e43574d9b20b37b1deb77b2b1ba7a3b2a729f0eeb99e0"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p06_成员运算符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p06_成员运算符.py",
+    "sha256_before": "cbd9eb881cc285ed66f23e75285a33a61d76874867db077b0f2231d43c02dfa7",
+    "sha256_after": "cbd9eb881cc285ed66f23e75285a33a61d76874867db077b0f2231d43c02dfa7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p07_if_else运算符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p07_if_else运算符.py",
+    "sha256_before": "9c91848fed50fecf47a92c7e6cf9f171a1b165f7b3d32abbbc8df14a9c7c00ca",
+    "sha256_after": "9c91848fed50fecf47a92c7e6cf9f171a1b165f7b3d32abbbc8df14a9c7c00ca"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p08_运行时输入.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p08_运行时输入.py",
+    "sha256_before": "694b0c696f7c79b885e5646edc22a26158ad435e6000c231ff08b080ae04bfcd",
+    "sha256_after": "694b0c696f7c79b885e5646edc22a26158ad435e6000c231ff08b080ae04bfcd"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p09_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p09_练习题.py",
+    "sha256_before": "32675719bbcd5607c52ff6a64507df95df37e1d84a5347fe0b686636ac0f2806",
+    "sha256_after": "32675719bbcd5607c52ff6a64507df95df37e1d84a5347fe0b686636ac0f2806"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p10_进制.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p10_进制.py",
+    "sha256_before": "8b5d5ee6b998eec08b2aa279fbf3c702fcd20249a7ab8b19cb03fc1b976f4338",
+    "sha256_after": "8b5d5ee6b998eec08b2aa279fbf3c702fcd20249a7ab8b19cb03fc1b976f4338"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p11_符号位_原码反码补码.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p11_符号位_原码反码补码.py",
+    "sha256_before": "8cd79d490b3ed58969c66dd1310a0a440cf135da65091d0d64436166ec28f450",
+    "sha256_after": "8cd79d490b3ed58969c66dd1310a0a440cf135da65091d0d64436166ec28f450"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第3章\\p12_位运算符.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第3章\\p12_位运算符.py",
+    "sha256_before": "53853f564284f1c731595601f970c250d45e5789fc45c45259cba223f41681e0",
+    "sha256_after": "53853f564284f1c731595601f970c250d45e5789fc45c45259cba223f41681e0"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第4章\\p01_输出语句.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第4章\\p01_输出语句.py",
+    "sha256_before": "de9be548ecb83bad386bb253b2287115070a38a32a014ade3fd525ce2efe84bb",
+    "sha256_after": "de9be548ecb83bad386bb253b2287115070a38a32a014ade3fd525ce2efe84bb"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第4章\\p02_分支结构之_条件判断.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第4章\\p02_分支结构之_条件判断.py",
+    "sha256_before": "982bd51f88d073d889f2d3399296483b829bd80172669e433b07a7e6bf4d15dc",
+    "sha256_after": "982bd51f88d073d889f2d3399296483b829bd80172669e433b07a7e6bf4d15dc"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第4章\\p03_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第4章\\p03_练习题.py",
+    "sha256_before": "a808ca5e83ae747b2cfe795166cdcae50627f4d649a9e263d76fadd6ac67b89c",
+    "sha256_after": "a808ca5e83ae747b2cfe795166cdcae50627f4d649a9e263d76fadd6ac67b89c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day02\\第4章\\p04_分支结构之_选择结构.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day02\\第4章\\p04_分支结构之_选择结构.py",
+    "sha256_before": "4ccb77c67625fbad28ceccca585f9ed9f01649175f25919ff054eca0aa0eccfa",
+    "sha256_after": "4ccb77c67625fbad28ceccca585f9ed9f01649175f25919ff054eca0aa0eccfa"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p01_晨考题.py",
+    "sha256_before": "ddbfb4f5ed5fd42986595a92c56053c785e25315d95cc9a41180c109d91ca4a3",
+    "sha256_after": "ddbfb4f5ed5fd42986595a92c56053c785e25315d95cc9a41180c109d91ca4a3"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p02_循环结构_for.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p02_循环结构_for.py",
+    "sha256_before": "5211865ebb932f0ee125f46fe4c9940ea831ecdd4c28877b38dd7dacff95df3f",
+    "sha256_after": "5211865ebb932f0ee125f46fe4c9940ea831ecdd4c28877b38dd7dacff95df3f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p03_循环练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p03_循环练习题.py",
+    "sha256_before": "4facd063409b88bf0f301be016f9a26a33350bd2fe917253f062b17e1024bd20",
+    "sha256_after": "4facd063409b88bf0f301be016f9a26a33350bd2fe917253f062b17e1024bd20"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p04_循环结构_while.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p04_循环结构_while.py",
+    "sha256_before": "b297cc27a1c40babd5f6f4d82430401c0cc695539ff9d0a712b143989798670f",
+    "sha256_after": "b297cc27a1c40babd5f6f4d82430401c0cc695539ff9d0a712b143989798670f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p05_循环练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p05_循环练习题.py",
+    "sha256_before": "a35275bce028bbdc1e689e6d274f565ebab45dfad4a2c83712abab14806b9061",
+    "sha256_after": "a35275bce028bbdc1e689e6d274f565ebab45dfad4a2c83712abab14806b9061"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p06_关键字break.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p06_关键字break.py",
+    "sha256_before": "78312df941e36dd6293a24bfb5603957b5dc809876b7d84e21d8c15b480cb07b",
+    "sha256_after": "78312df941e36dd6293a24bfb5603957b5dc809876b7d84e21d8c15b480cb07b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p07_关键字continue.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p07_关键字continue.py",
+    "sha256_before": "5afa21fab141a563527253f82961135cdb3b984c91e6783d9d73b998acee1a86",
+    "sha256_after": "5afa21fab141a563527253f82961135cdb3b984c91e6783d9d73b998acee1a86"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p08_关键字pass.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p08_关键字pass.py",
+    "sha256_before": "a11c71c5473a3968ed5f672786332f7b990f0fc65f6e6b4e254a4fbd94754d12",
+    "sha256_after": "a11c71c5473a3968ed5f672786332f7b990f0fc65f6e6b4e254a4fbd94754d12"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p09_循环嵌套.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p09_循环嵌套.py",
+    "sha256_before": "41bda5a641885d3b584d9b0b259f6d9c1d164dc450ee50a86c69a80b08fa1f26",
+    "sha256_after": "41bda5a641885d3b584d9b0b259f6d9c1d164dc450ee50a86c69a80b08fa1f26"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p10_循环练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p10_循环练习题.py",
+    "sha256_before": "718a9cc92fcd9122337de1e7baa442d09704e1ed57fc8714029fe6a2021281bd",
+    "sha256_after": "718a9cc92fcd9122337de1e7baa442d09704e1ed57fc8714029fe6a2021281bd"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p11_容器.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p11_容器.py",
+    "sha256_before": "ba3c92683ad281836b8ca3248e77640397db111ed68e72eb09f94aa8cfc23b5e",
+    "sha256_after": "ba3c92683ad281836b8ca3248e77640397db111ed68e72eb09f94aa8cfc23b5e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p12_序列类型.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p12_序列类型.py",
+    "sha256_before": "934e34250ee943d8c26bf4139a6050df56113cb21d27a358ec18b2b32b105fd1",
+    "sha256_after": "934e34250ee943d8c26bf4139a6050df56113cb21d27a358ec18b2b32b105fd1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p13_容器的通用操作.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p13_容器的通用操作.py",
+    "sha256_before": "1964b5b2a8b9cbf19b2977148c3ad0d22304d0fa19fd066e62431e1048e26d62",
+    "sha256_after": "1964b5b2a8b9cbf19b2977148c3ad0d22304d0fa19fd066e62431e1048e26d62"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day03\\p14_答疑.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day03\\p14_答疑.py",
+    "sha256_before": "e7f33114b6c079412186df221194a4bebdf3cb1665f46d558d9f910e9580a405",
+    "sha256_after": "e7f33114b6c079412186df221194a4bebdf3cb1665f46d558d9f910e9580a405"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p01_晨考题.py",
+    "sha256_before": "5d6d96f91e58c1073ba7a4e5899376e53c1edd6681413c1ed5140063788b7727",
+    "sha256_after": "5d6d96f91e58c1073ba7a4e5899376e53c1edd6681413c1ed5140063788b7727"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p02_复习.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p02_复习.py",
+    "sha256_before": "aff4d7d9602326e9ccf804317fc311d4faf51fb8bc0667b77103459d6252217a",
+    "sha256_after": "aff4d7d9602326e9ccf804317fc311d4faf51fb8bc0667b77103459d6252217a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p03_列表.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p03_列表.py",
+    "sha256_before": "ef7c05dee2f5b2f757576f639782778a08b47eb445a84c834b281da3a63ac3da",
+    "sha256_after": "ef7c05dee2f5b2f757576f639782778a08b47eb445a84c834b281da3a63ac3da"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p04_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p04_练习题.py",
+    "sha256_before": "14eee2f51e4a084bd991208ae6b7d7051ce1038f2e857eb87a05430578f3034b",
+    "sha256_after": "14eee2f51e4a084bd991208ae6b7d7051ce1038f2e857eb87a05430578f3034b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p05_元组.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p05_元组.py",
+    "sha256_before": "ad280f64734f8901b78f7361b27cf0b70a5b2a15d77880956ad1264d5834f456",
+    "sha256_after": "ad280f64734f8901b78f7361b27cf0b70a5b2a15d77880956ad1264d5834f456"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p06_集合.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p06_集合.py",
+    "sha256_before": "9d7c61cd0f0ec8ef539831ba1e0f2568ccc548488c9331ded0bba37a7cb65a97",
+    "sha256_after": "9d7c61cd0f0ec8ef539831ba1e0f2568ccc548488c9331ded0bba37a7cb65a97"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p07_字符串.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p07_字符串.py",
+    "sha256_before": "2bb23cf683885b08e4afeebbd5e2ecac3c26164c6bbda2ba0514f4b7961bfe08",
+    "sha256_after": "2bb23cf683885b08e4afeebbd5e2ecac3c26164c6bbda2ba0514f4b7961bfe08"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p07_字符串2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p07_字符串2.py",
+    "sha256_before": "103487ad0a81bc623ad39ff1dc6f55f3ca65f7e502030fd05262f7bfe61d34c8",
+    "sha256_after": "103487ad0a81bc623ad39ff1dc6f55f3ca65f7e502030fd05262f7bfe61d34c8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day04\\p08_字符串3.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day04\\p08_字符串3.py",
+    "sha256_before": "bc5a673f2dd2d763eb8a05caab9732cbd4e38d71d5362b3967e6f74c2f1e88b8",
+    "sha256_after": "bc5a673f2dd2d763eb8a05caab9732cbd4e38d71d5362b3967e6f74c2f1e88b8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p01_晨考题.py",
+    "sha256_before": "8e1951fdfb221f7293f1fa34cb723adfdc21d4b98afe610eff5f3de9d6da7ae1",
+    "sha256_after": "8e1951fdfb221f7293f1fa34cb723adfdc21d4b98afe610eff5f3de9d6da7ae1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p02_字典.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p02_字典.py",
+    "sha256_before": "6b105ec023637027c4cbe4ef6dc5738ff3474f9eb05e8fabe1cd01803ceda3ce",
+    "sha256_after": "6b105ec023637027c4cbe4ef6dc5738ff3474f9eb05e8fabe1cd01803ceda3ce"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p03_字典练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p03_字典练习题.py",
+    "sha256_before": "b201bc91313f6d4e92336a7d6946eef1db53fdd57ba99a4751c2ed90d6436df1",
+    "sha256_after": "b201bc91313f6d4e92336a7d6946eef1db53fdd57ba99a4751c2ed90d6436df1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p04_冻结集合.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p04_冻结集合.py",
+    "sha256_before": "92eb41850fa5a305a08daeebbe5bbb7b53a689b4b2444822508247211a78c7c7",
+    "sha256_after": "92eb41850fa5a305a08daeebbe5bbb7b53a689b4b2444822508247211a78c7c7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p05_函数的概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p05_函数的概念.py",
+    "sha256_before": "f6453bdb4c381a4f16ed8c68826389b6cd0ccba7bce3394c8604f2dca42b0896",
+    "sha256_after": "f6453bdb4c381a4f16ed8c68826389b6cd0ccba7bce3394c8604f2dca42b0896"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p06_函数的返回值.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p06_函数的返回值.py",
+    "sha256_before": "5ea147b1436a5b9c831fc7bf7204382470134feb4c0526a569bcdfc2543359ce",
+    "sha256_after": "5ea147b1436a5b9c831fc7bf7204382470134feb4c0526a569bcdfc2543359ce"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p07_函数的传参.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p07_函数的传参.py",
+    "sha256_before": "e8af5ffc6fea843778f9e969a0a884ff15a924fbbeed2272401ed294b75f5ce4",
+    "sha256_after": "e8af5ffc6fea843778f9e969a0a884ff15a924fbbeed2272401ed294b75f5ce4"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p08_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p08_练习题.py",
+    "sha256_before": "542574ed8c96cc2e4751977b3b2ca2e050e06984cb3a7f4cfee56b8347e8b50d",
+    "sha256_after": "542574ed8c96cc2e4751977b3b2ca2e050e06984cb3a7f4cfee56b8347e8b50d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p09_函数的参数传递机制.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p09_函数的参数传递机制.py",
+    "sha256_before": "8e1ae8b92238102d9ebed661145e7e6b57efb480f2b5d4ff57c26cc3993d3620",
+    "sha256_after": "8e1ae8b92238102d9ebed661145e7e6b57efb480f2b5d4ff57c26cc3993d3620"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day05\\p10_函数的嵌套调用.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day05\\p10_函数的嵌套调用.py",
+    "sha256_before": "ee427d6d4077bb95ee1c0a740493badfc49f19ad117b6c2eb9cb30c83c949985",
+    "sha256_after": "ee427d6d4077bb95ee1c0a740493badfc49f19ad117b6c2eb9cb30c83c949985"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p01_晨考题.py",
+    "sha256_before": "c06cee448ebdced2307c68186330135bd6d67e3b6371b9a577c86946e08d4a51",
+    "sha256_after": "c06cee448ebdced2307c68186330135bd6d67e3b6371b9a577c86946e08d4a51"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p02_递归.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p02_递归.py",
+    "sha256_before": "5acdd02cb06186c4b776aeb7bcd2f71ec903c8ddb6c52f44651e741b9a77c4d2",
+    "sha256_after": "5acdd02cb06186c4b776aeb7bcd2f71ec903c8ddb6c52f44651e741b9a77c4d2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p03_递归练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p03_递归练习题.py",
+    "sha256_before": "27fc48bcf49d6edbf8edf36ce91c3eb610e5046d5b10ce1652f727349b586558",
+    "sha256_after": "27fc48bcf49d6edbf8edf36ce91c3eb610e5046d5b10ce1652f727349b586558"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p04_函数是一种数据类型.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p04_函数是一种数据类型.py",
+    "sha256_before": "27a8da20f1e3cdf5a7439d52744c29e85a2920af4c7bd0b8e838f152ee1260b2",
+    "sha256_after": "27a8da20f1e3cdf5a7439d52744c29e85a2920af4c7bd0b8e838f152ee1260b2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p05_匿名函数.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p05_匿名函数.py",
+    "sha256_before": "8e875ed5a76f6bb2b7cb59ec8e0805134df515732bcba323b2240e48c8239b10",
+    "sha256_after": "8e875ed5a76f6bb2b7cb59ec8e0805134df515732bcba323b2240e48c8239b10"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p06_几个好用函数功能演示.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p06_几个好用函数功能演示.py",
+    "sha256_before": "2f557e759673b570d103914fb7080d82c10ceb0096122e5c7c44c4efb407b932",
+    "sha256_after": "2f557e759673b570d103914fb7080d82c10ceb0096122e5c7c44c4efb407b932"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p07_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p07_练习题.py",
+    "sha256_before": "abeea1803fabda590b1bbd9a590ffea110b1f8f953887e18c6e2d5664de93234",
+    "sha256_after": "abeea1803fabda590b1bbd9a590ffea110b1f8f953887e18c6e2d5664de93234"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第6章\\p08_函数的文档说明和注释.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第6章\\p08_函数的文档说明和注释.py",
+    "sha256_before": "310fe5eea37639858341e2bb43beae74d90724e8dc9b87df37916f230eb97373",
+    "sha256_after": "310fe5eea37639858341e2bb43beae74d90724e8dc9b87df37916f230eb97373"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p01_基本概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p01_基本概念.py",
+    "sha256_before": "f5f1438fa7109f6a38265fa739949ea848775a775fd24d04afd60f516ab2e040",
+    "sha256_after": "f5f1438fa7109f6a38265fa739949ea848775a775fd24d04afd60f516ab2e040"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p02_文件的写操作.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p02_文件的写操作.py",
+    "sha256_before": "6643081a2540e26a376dd062df523e7a1407ddb179c652a51b7bbaceebefb362",
+    "sha256_after": "6643081a2540e26a376dd062df523e7a1407ddb179c652a51b7bbaceebefb362"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p03_文件的读操作.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p03_文件的读操作.py",
+    "sha256_before": "d6deec37398000ca61022fd970ad570cba1eb8354744eaa6c5779d5c0538e93c",
+    "sha256_after": "d6deec37398000ca61022fd970ad570cba1eb8354744eaa6c5779d5c0538e93c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p04_复制文件.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p04_复制文件.py",
+    "sha256_before": "a6ecc4df3f4848c4d8e41ce141ecf382bd114cc63fe1f6d5164016a2b8cb3065",
+    "sha256_after": "a6ecc4df3f4848c4d8e41ce141ecf382bd114cc63fe1f6d5164016a2b8cb3065"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p05_答疑.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p05_答疑.py",
+    "sha256_before": "5802839ce4f0dd252b4a2920063474d68f995613c84274a26207f9bf9a3af27a",
+    "sha256_after": "5802839ce4f0dd252b4a2920063474d68f995613c84274a26207f9bf9a3af27a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p06_复制文件2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p06_复制文件2.py",
+    "sha256_before": "d8728a4d44b50e91cba2344965a8bdced952bc0f1e01a97c74be09ad670bea7b",
+    "sha256_after": "d8728a4d44b50e91cba2344965a8bdced952bc0f1e01a97c74be09ad670bea7b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p07_文件或目录属性.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p07_文件或目录属性.py",
+    "sha256_before": "a8e50b3a2cae88bcf0f7d591d941511b5e0bdc6cca6ff013c8ff1629e0ee57c3",
+    "sha256_after": "a8e50b3a2cae88bcf0f7d591d941511b5e0bdc6cca6ff013c8ff1629e0ee57c3"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p08_文件的创建、删除、重命名.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p08_文件的创建、删除、重命名.py",
+    "sha256_before": "a47efea8274ab713a93c23c114a61c338791d7b576f44495110433be1be57bf7",
+    "sha256_after": "a47efea8274ab713a93c23c114a61c338791d7b576f44495110433be1be57bf7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day06\\第7章\\p09_文件夹的创建、删除、重命名等.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day06\\第7章\\p09_文件夹的创建、删除、重命名等.py",
+    "sha256_before": "1274a17d8243d52d26295077313393787744534c28e57e1bf9589d469f969a53",
+    "sha256_after": "1274a17d8243d52d26295077313393787744534c28e57e1bf9589d469f969a53"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\log.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\log.txt",
+    "sha256_before": "264714efc8e24659befcc4e3ba5d659d386c26746794116c90b2a1896cb1f0a0"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p01_晨考题.py",
+    "sha256_before": "e7ab3fbc9f342dc0a1dc52ad10e21daf160a7a3112302b83ba8e46fe386eaf6d",
+    "sha256_after": "e7ab3fbc9f342dc0a1dc52ad10e21daf160a7a3112302b83ba8e46fe386eaf6d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p02_面向对象的概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p02_面向对象的概念.py",
+    "sha256_before": "c5f4d0072e1097bacec02a637cff6b9c5c0a2b6e312bfab9dedf3f34246e45e0",
+    "sha256_after": "c5f4d0072e1097bacec02a637cff6b9c5c0a2b6e312bfab9dedf3f34246e45e0"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p03_类的成员之一_属性.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p03_类的成员之一_属性.py",
+    "sha256_before": "53bf0e2436dfdca9b6385e4df48349c747afb52e3f7059ba59c5485c9e537439",
+    "sha256_after": "53bf0e2436dfdca9b6385e4df48349c747afb52e3f7059ba59c5485c9e537439"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p04_类的成员之二_方法.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p04_类的成员之二_方法.py",
+    "sha256_before": "12506a0879a7a3ae72fd60eb8b0c1959c237a1b02d251f4d8169f2023b8395f6",
+    "sha256_after": "12506a0879a7a3ae72fd60eb8b0c1959c237a1b02d251f4d8169f2023b8395f6"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p05_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p05_练习题.py",
+    "sha256_before": "b57c952639492311a57a172fe4cfe0e7316769c90947448b22731ffe2dd89122",
+    "sha256_after": "b57c952639492311a57a172fe4cfe0e7316769c90947448b22731ffe2dd89122"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p06_关于实例方法的补充.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p06_关于实例方法的补充.py",
+    "sha256_before": "03eee41b4969e5ce85a6337e618bbc5560f4649b0b61ae2e50fc7cd64e3d0702",
+    "sha256_after": "03eee41b4969e5ce85a6337e618bbc5560f4649b0b61ae2e50fc7cd64e3d0702"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p07_魔法方法.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p07_魔法方法.py",
+    "sha256_before": "80373c550540bda2741d349acae76950040c166c328c040b8f89605cc6f9255a",
+    "sha256_after": "80373c550540bda2741d349acae76950040c166c328c040b8f89605cc6f9255a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p08_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p08_练习题.py",
+    "sha256_before": "b25d9cd834ee13c8c932d3f2fc0a9c206761b4012ef3e716d8ba8ef129d54e98",
+    "sha256_after": "b25d9cd834ee13c8c932d3f2fc0a9c206761b4012ef3e716d8ba8ef129d54e98"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p09_动态增删属性.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p09_动态增删属性.py",
+    "sha256_before": "54ad01809a01bad64b836932a363a8d7d9b02e771495d290e7898c3cf5d359c8",
+    "sha256_after": "54ad01809a01bad64b836932a363a8d7d9b02e771495d290e7898c3cf5d359c8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p10_动态增删方法.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p10_动态增删方法.py",
+    "sha256_before": "fb0a42d1af52d25af4328795cfb029b3936426b4b78f2fc16d53172efa120d83",
+    "sha256_after": "fb0a42d1af52d25af4328795cfb029b3936426b4b78f2fc16d53172efa120d83"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p11_在类的外面定义方法后加到类中.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p11_在类的外面定义方法后加到类中.py",
+    "sha256_before": "87dbf1d6fa722a09142187da754a1b2c2318da6ba00ba0cdad6a752bdde8263a",
+    "sha256_after": "87dbf1d6fa722a09142187da754a1b2c2318da6ba00ba0cdad6a752bdde8263a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\p12_slots变量.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\p12_slots变量.py",
+    "sha256_before": "832a6faf7f0e511aef63c1eef9d4932e7b1f87ae4f0f81fa13ca1fdfb131c771",
+    "sha256_after": "832a6faf7f0e511aef63c1eef9d4932e7b1f87ae4f0f81fa13ca1fdfb131c771"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\tel_contacts.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\tel_contacts.txt",
+    "sha256_before": "1936061be9969d1217a9d1b86021a61cd1d72c26475074c7d8c5ac3402c9474e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day07\\test.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day07\\test.txt",
+    "sha256_before": "7d455902668272e52a8c119284e1793cf5ffaead6a55140cbfee28cd1f834516"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\晚自习\\p01_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\晚自习\\p01_练习题.py",
+    "sha256_before": "dabc064b3022c1db7dcbb80a85f844b6cae0170de60fa273edaacbb9fa016700",
+    "sha256_after": "dabc064b3022c1db7dcbb80a85f844b6cae0170de60fa273edaacbb9fa016700"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\晚自习\\p02_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\晚自习\\p02_练习题.py",
+    "sha256_before": "5b333dc9fa6a911f0032d86a67766d63d2e289eb5b84a4304c761cf1a16f4c8b",
+    "sha256_after": "5b333dc9fa6a911f0032d86a67766d63d2e289eb5b84a4304c761cf1a16f4c8b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第10章\\p01_异常和错误的概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第10章\\p01_异常和错误的概念.py",
+    "sha256_before": "ca9d97cb203ac4b791c1ec2b4a5d2889a142b9d613faaa9013ad46db95a67ad7",
+    "sha256_after": "ca9d97cb203ac4b791c1ec2b4a5d2889a142b9d613faaa9013ad46db95a67ad7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第10章\\p02_异常的处理.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第10章\\p02_异常的处理.py",
+    "sha256_before": "d41533beaf7c427aed3611c34bcbfe552dba8581fb1e06800448be77d0eaf240",
+    "sha256_after": "d41533beaf7c427aed3611c34bcbfe552dba8581fb1e06800448be77d0eaf240"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第10章\\p03_关键字else和finally.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第10章\\p03_关键字else和finally.py",
+    "sha256_before": "1d50ebcb0b31bcebf3b18b19900392094304719c30521a9a85cb7959f3ed152c",
+    "sha256_after": "1d50ebcb0b31bcebf3b18b19900392094304719c30521a9a85cb7959f3ed152c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p01_晨考题.py",
+    "sha256_before": "8c2d4d9d88a6ffaf755b01f1edc9eccf50e6f113e816ffd3b7458db5557edb01",
+    "sha256_after": "8c2d4d9d88a6ffaf755b01f1edc9eccf50e6f113e816ffd3b7458db5557edb01"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p02_面向对象基本特征_封装.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p02_面向对象基本特征_封装.py",
+    "sha256_before": "c5adabe32def2c92a1d7734947961383ac07c51bf31735da727dc607178feb0b",
+    "sha256_after": "c5adabe32def2c92a1d7734947961383ac07c51bf31735da727dc607178feb0b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p03_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p03_练习题.py",
+    "sha256_before": "b9d0810482401fdca3059eeababf538d20e89bda0262135e22677d94f95c8fd6",
+    "sha256_after": "b9d0810482401fdca3059eeababf538d20e89bda0262135e22677d94f95c8fd6"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p04_面向对象基本特征_继承1.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p04_面向对象基本特征_继承1.py",
+    "sha256_before": "c9dec4f175b3a2eb0d2ea76748756ef043a5f414ef0de4ff0fcc931028853afa",
+    "sha256_after": "c9dec4f175b3a2eb0d2ea76748756ef043a5f414ef0de4ff0fcc931028853afa"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p05_属性的重名问题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p05_属性的重名问题.py",
+    "sha256_before": "e3f917ce32bfbe1c3c8a7cd459cea2a493023054999e8c35bb9bac89af2fbb79",
+    "sha256_after": "e3f917ce32bfbe1c3c8a7cd459cea2a493023054999e8c35bb9bac89af2fbb79"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p06_方法的重名.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p06_方法的重名.py",
+    "sha256_before": "07a752de3ae613317eeba2ea8340e80ef8da99b25ae96c4ed41cf543b9f86539",
+    "sha256_after": "07a752de3ae613317eeba2ea8340e80ef8da99b25ae96c4ed41cf543b9f86539"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p07_面向对象基本特征_继承2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p07_面向对象基本特征_继承2.py",
+    "sha256_before": "b5903f55d35bd504f8ad56fde382f90313c2349d7a0b084af121c6f16b169afd",
+    "sha256_after": "b5903f55d35bd504f8ad56fde382f90313c2349d7a0b084af121c6f16b169afd"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p08_面向对象基本特征_继承3.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p08_面向对象基本特征_继承3.py",
+    "sha256_before": "cdd2f75db858e3807421e59d6a295dc2e49bf42a4dbddd3fc602957d3fdb02c2",
+    "sha256_after": "cdd2f75db858e3807421e59d6a295dc2e49bf42a4dbddd3fc602957d3fdb02c2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p09_面向对象基本特征_继承4.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p09_面向对象基本特征_继承4.py",
+    "sha256_before": "2cbae53ce5f4795b61861255df7c2e555228cbe3fb7d50bbeb14b58e6157f75d",
+    "sha256_after": "2cbae53ce5f4795b61861255df7c2e555228cbe3fb7d50bbeb14b58e6157f75d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p10_面向对象基本特征_继承4.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p10_面向对象基本特征_继承4.py",
+    "sha256_before": "e43771eb21b6e6ff169fa505bb32f51496380c03f8130ec020ce47b4a47b5188",
+    "sha256_after": "e43771eb21b6e6ff169fa505bb32f51496380c03f8130ec020ce47b4a47b5188"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p11_面向对象基本特征_多态.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p11_面向对象基本特征_多态.py",
+    "sha256_before": "ef53c1fff88b5ee0c5870098fdf16633a9bff122d2400712807eb7ee586dcf6d",
+    "sha256_after": "ef53c1fff88b5ee0c5870098fdf16633a9bff122d2400712807eb7ee586dcf6d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p12_抽象类.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p12_抽象类.py",
+    "sha256_before": "bfa30f2baa23b48750d83ea0b7f6625c32f2b8f8dfdce94a304343ee4b169500",
+    "sha256_after": "bfa30f2baa23b48750d83ea0b7f6625c32f2b8f8dfdce94a304343ee4b169500"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day08\\第9章\\p13_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day08\\第9章\\p13_练习题.py",
+    "sha256_before": "dd3201b503769282803af054432e5bbb78a926bca4939050ee04539df5b575d8",
+    "sha256_after": "dd3201b503769282803af054432e5bbb78a926bca4939050ee04539df5b575d8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p01_晨考题1.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p01_晨考题1.py",
+    "sha256_before": "1a71a76f2596bf067530b7ca644b4f00baa7df7b15034157f184cdd6716f4d5f",
+    "sha256_after": "1a71a76f2596bf067530b7ca644b4f00baa7df7b15034157f184cdd6716f4d5f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p02_晨考题2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p02_晨考题2.py",
+    "sha256_before": "916b1339c9001456002b8bc9efa6b00a1a433d36595d21e5170a578df5abef36",
+    "sha256_after": "916b1339c9001456002b8bc9efa6b00a1a433d36595d21e5170a578df5abef36"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p03_IO操作.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p03_IO操作.py",
+    "sha256_before": "6422c89fd621224d0f9476f9dbaaa52e74a1ad7a3d747859ddcf7b1a329b71f8",
+    "sha256_after": "6422c89fd621224d0f9476f9dbaaa52e74a1ad7a3d747859ddcf7b1a329b71f8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p04_抛出异常.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p04_抛出异常.py",
+    "sha256_before": "90b63ae6d9cb5d9a11b1eb96efb09463c9b003650e87435bb16d3c2010e66788",
+    "sha256_after": "90b63ae6d9cb5d9a11b1eb96efb09463c9b003650e87435bb16d3c2010e66788"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p05_抛出异常.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p05_抛出异常.py",
+    "sha256_before": "47cfecc72b86628030265a092f849646114049eff0d731a104a7177205e694a7",
+    "sha256_after": "47cfecc72b86628030265a092f849646114049eff0d731a104a7177205e694a7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p06_异常的传递.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p06_异常的传递.py",
+    "sha256_before": "91a6df0fecf55a6bb899a6a7fde07e19c229af606a871545b2a675a2e563693a",
+    "sha256_after": "91a6df0fecf55a6bb899a6a7fde07e19c229af606a871545b2a675a2e563693a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p07_关键字with.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p07_关键字with.py",
+    "sha256_before": "645b012466c328579877ab8fb52bc270cc761e838348ab6974089f2a666de71e",
+    "sha256_after": "645b012466c328579877ab8fb52bc270cc761e838348ab6974089f2a666de71e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第10章\\p08_自定义异常.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第10章\\p08_自定义异常.py",
+    "sha256_before": "2e738aab0208b69a5680bdfed3aee3b163adf56fd2438009d920c0cc04fa8671",
+    "sha256_after": "2e738aab0208b69a5680bdfed3aee3b163adf56fd2438009d920c0cc04fa8671"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\p01_包的概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\p01_包的概念.py",
+    "sha256_before": "e2d1a4338bc92699807facb4a5436fe2d02ff32d9dc85c31141eaf1f2fdb7db9",
+    "sha256_after": "e2d1a4338bc92699807facb4a5436fe2d02ff32d9dc85c31141eaf1f2fdb7db9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\p02_main.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\p02_main.py",
+    "sha256_before": "bfb124c0b5ea65bbab54df3b68833cf62a3e52a6a63641b8d813c21beb6f18e9",
+    "sha256_after": "bfb124c0b5ea65bbab54df3b68833cf62a3e52a6a63641b8d813c21beb6f18e9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\mygraphic\\circle.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\mygraphic\\circle.py",
+    "sha256_before": "2133c1f8fd0df1d0f9030c1c3e64d6ea8399785be311008da467bbb0a6f8508a",
+    "sha256_after": "2133c1f8fd0df1d0f9030c1c3e64d6ea8399785be311008da467bbb0a6f8508a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\mygraphic\\rectangle.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\mygraphic\\rectangle.py",
+    "sha256_before": "fa88f44eab5279559b79ccc5feb821ba77d7d0c837960181c412f46d9a24b7dd",
+    "sha256_after": "fa88f44eab5279559b79ccc5feb821ba77d7d0c837960181c412f46d9a24b7dd"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\mygraphic\\__init__.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\mygraphic\\__init__.py",
+    "sha256_before": "d597bdb761dd64c817982597d379a5f3dd232a6843e6fd7e6b9911269310eac4",
+    "sha256_after": "d597bdb761dd64c817982597d379a5f3dd232a6843e6fd7e6b9911269310eac4"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\mymath\\advance_calculate.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\mymath\\advance_calculate.py",
+    "sha256_before": "2be9fc6a36f1ea71a6e2b3f778cc4e1c6473a22cb14803f3ba4af16243a5d3c7",
+    "sha256_after": "2be9fc6a36f1ea71a6e2b3f778cc4e1c6473a22cb14803f3ba4af16243a5d3c7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\mymath\\basic_arithmetic.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\mymath\\basic_arithmetic.py",
+    "sha256_before": "8164a0ea54c3dc474036c23efd99279ce008e4263469bf71e3b245ac1dd9fc68",
+    "sha256_after": "8164a0ea54c3dc474036c23efd99279ce008e4263469bf71e3b245ac1dd9fc68"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\包\\mymath\\__init__.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\包\\mymath\\__init__.py",
+    "sha256_before": "ae12a7fe3864fd6a639e0db893c4ae663958c406c02baf1a398ac1b807e4d74d",
+    "sha256_after": "ae12a7fe3864fd6a639e0db893c4ae663958c406c02baf1a398ac1b807e4d74d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\标准库的一些库\\hello.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\标准库的一些库\\hello.txt",
+    "sha256_before": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\标准库的一些库\\p01_日期时间模块_datetime.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\标准库的一些库\\p01_日期时间模块_datetime.py",
+    "sha256_before": "7e27f04c433daaf6e84cbabccb4e198f99988f4dbcad5f98e76eb599b69984c6",
+    "sha256_after": "7e27f04c433daaf6e84cbabccb4e198f99988f4dbcad5f98e76eb599b69984c6"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\标准库的一些库\\p02_日期时间模块_time.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\标准库的一些库\\p02_日期时间模块_time.py",
+    "sha256_before": "0a556c5a1756ae4e2455b306a48c86aa0550b5010840cc644622869cb555635e",
+    "sha256_after": "0a556c5a1756ae4e2455b306a48c86aa0550b5010840cc644622869cb555635e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\标准库的一些库\\p03_日期时间模块_calendar.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\标准库的一些库\\p03_日期时间模块_calendar.py",
+    "sha256_before": "1f442adee9e7a2bb82495c8a58cd2e69e12105667964000e2bec848921b4094e",
+    "sha256_after": "1f442adee9e7a2bb82495c8a58cd2e69e12105667964000e2bec848921b4094e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p01_模块的概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p01_模块的概念.py",
+    "sha256_before": "cb93903a57888fcab60c7e00604d84081a8ad81f3c47c874dda96b61ba48084e",
+    "sha256_after": "cb93903a57888fcab60c7e00604d84081a8ad81f3c47c874dda96b61ba48084e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p02_my_math_module.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p02_my_math_module.py",
+    "sha256_before": "d058f1a1fb60b886105c3e2c69d62b433cba83261a74ea91c5580d6b49ee9111",
+    "sha256_after": "d058f1a1fb60b886105c3e2c69d62b433cba83261a74ea91c5580d6b49ee9111"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p02_my_shape_module.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p02_my_shape_module.py",
+    "sha256_before": "5f6eb84245447ddd5844a0c32bbbbde96a81807f5920b5d615ea2a67b232e12f",
+    "sha256_after": "5f6eb84245447ddd5844a0c32bbbbde96a81807f5920b5d615ea2a67b232e12f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p03_演示导入其他模块.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p03_演示导入其他模块.py",
+    "sha256_before": "31f49ae5e83e7f47aec052fa683e060ac12037551779632b77401e722cae3153",
+    "sha256_after": "31f49ae5e83e7f47aec052fa683e060ac12037551779632b77401e722cae3153"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p04_检查主模块的问题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p04_检查主模块的问题.py",
+    "sha256_before": "07e7e997c22e76d258f125a7424dfac326728ec949065c9093865b61d99f25a5",
+    "sha256_after": "07e7e997c22e76d258f125a7424dfac326728ec949065c9093865b61d99f25a5"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p05_模块的搜索顺序.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p05_模块的搜索顺序.py",
+    "sha256_before": "3732ec0d1842231f92bd36c6deb160fb3d8ba5529ae12a09bd652fb72b0ab531",
+    "sha256_after": "3732ec0d1842231f92bd36c6deb160fb3d8ba5529ae12a09bd652fb72b0ab531"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p06_dir函数.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p06_dir函数.py",
+    "sha256_before": "33da846f110d518f49b9df67694e8bccae5c53a08ebb6e52a057f0bbcf5ab9a8",
+    "sha256_after": "33da846f110d518f49b9df67694e8bccae5c53a08ebb6e52a057f0bbcf5ab9a8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day09\\第11章\\模块\\p06_hello.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day09\\第11章\\模块\\p06_hello.py",
+    "sha256_before": "8d38cddb291203594b702e0cf743560727be260a3bea9543e2dd0be721a73dc5",
+    "sha256_after": "8d38cddb291203594b702e0cf743560727be260a3bea9543e2dd0be721a73dc5"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\error.log",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\error.log",
+    "sha256_before": "9ce93363fafd38b7bcf453d8139503c90bc9338378408ec11227f17248db798f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p01_晨考题1.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p01_晨考题1.py",
+    "sha256_before": "bc5f16c6a7d240167b4407e54cdbe12ce15cb8d8a12c13b3952b26a6b1895c7e",
+    "sha256_after": "bc5f16c6a7d240167b4407e54cdbe12ce15cb8d8a12c13b3952b26a6b1895c7e"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p02_晨考题2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p02_晨考题2.py",
+    "sha256_before": "1b95c8c0225ba8af664b106ac68618622db80f03d1c140eedc720fb89028adc8",
+    "sha256_after": "1b95c8c0225ba8af664b106ac68618622db80f03d1c140eedc720fb89028adc8"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p03_晨考题3.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p03_晨考题3.py",
+    "sha256_before": "a354e8fb4c13910f1ecd31b915793e65a36f823b660a4a4c75c23d0a752da095",
+    "sha256_after": "a354e8fb4c13910f1ecd31b915793e65a36f823b660a4a4c75c23d0a752da095"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p04_标准库中的string模块.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p04_标准库中的string模块.py",
+    "sha256_before": "1f36b480d495dc05cb98a7a427119107e980c4b26f8468ad738f535cafeb2938",
+    "sha256_after": "1f36b480d495dc05cb98a7a427119107e980c4b26f8468ad738f535cafeb2938"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p05_标准库中的random模块.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p05_标准库中的random模块.py",
+    "sha256_before": "47e8aea50bf88b72d52b507f040c24b81f1ae5a4039025c4d3816e7325ef797a",
+    "sha256_after": "47e8aea50bf88b72d52b507f040c24b81f1ae5a4039025c4d3816e7325ef797a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p06_标准库中的math模块.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p06_标准库中的math模块.py",
+    "sha256_before": "7980eae63720382f7ccfc835b9847712033e88e82b9dcf7b9adfc000b1c2dd1d",
+    "sha256_after": "7980eae63720382f7ccfc835b9847712033e88e82b9dcf7b9adfc000b1c2dd1d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p07_标准库中的容器collections模块.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p07_标准库中的容器collections模块.py",
+    "sha256_before": "0a1c3a84146d9c7ec5187f229d6b93fcf59718ebd908d6cb178b7f777ea73e82",
+    "sha256_after": "0a1c3a84146d9c7ec5187f229d6b93fcf59718ebd908d6cb178b7f777ea73e82"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p08_练习题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p08_练习题.py",
+    "sha256_before": "8697201c41af978268dcea93b9ebde5d644fa6442a286b0d85d5eb64a96f01b4",
+    "sha256_after": "8697201c41af978268dcea93b9ebde5d644fa6442a286b0d85d5eb64a96f01b4"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\标准库\\p09_正则.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\标准库\\p09_正则.py",
+    "sha256_before": "8423111a9096174a575bd73e33c8d6f9746c4c283e640c323f4300becc38af2a",
+    "sha256_after": "8423111a9096174a575bd73e33c8d6f9746c4c283e640c323f4300becc38af2a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\p01_第三方库.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\p01_第三方库.py",
+    "sha256_before": "99b35115b65ee81c18fc04ea247aa4dd5494c4d32de00a13a5481ff9c8310c9c",
+    "sha256_after": "99b35115b65ee81c18fc04ea247aa4dd5494c4d32de00a13a5481ff9c8310c9c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\setup.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\setup.py",
+    "sha256_before": "2daa30fb3a969eed54b19c96bd7f00a9aeae1ab06c0e86e6041951cbf2ef0df0",
+    "sha256_after": "2daa30fb3a969eed54b19c96bd7f00a9aeae1ab06c0e86e6041951cbf2ef0df0"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\aguigu\\__init__.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\aguigu\\__init__.py",
+    "sha256_before": "8e61f5ae72913dc5137920c12535ab40b58d096ba0588ad60537325f7502db68",
+    "sha256_after": "8e61f5ae72913dc5137920c12535ab40b58d096ba0588ad60537325f7502db68"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\aguigu\\mygraphic\\circle.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\aguigu\\mygraphic\\circle.py",
+    "sha256_before": "2133c1f8fd0df1d0f9030c1c3e64d6ea8399785be311008da467bbb0a6f8508a",
+    "sha256_after": "2133c1f8fd0df1d0f9030c1c3e64d6ea8399785be311008da467bbb0a6f8508a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\aguigu\\mygraphic\\rectangle.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\aguigu\\mygraphic\\rectangle.py",
+    "sha256_before": "fa88f44eab5279559b79ccc5feb821ba77d7d0c837960181c412f46d9a24b7dd",
+    "sha256_after": "fa88f44eab5279559b79ccc5feb821ba77d7d0c837960181c412f46d9a24b7dd"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\aguigu\\mygraphic\\__init__.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\aguigu\\mygraphic\\__init__.py",
+    "sha256_before": "d597bdb761dd64c817982597d379a5f3dd232a6843e6fd7e6b9911269310eac4",
+    "sha256_after": "d597bdb761dd64c817982597d379a5f3dd232a6843e6fd7e6b9911269310eac4"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\aguigu\\mymath\\advance_calculate.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\aguigu\\mymath\\advance_calculate.py",
+    "sha256_before": "2be9fc6a36f1ea71a6e2b3f778cc4e1c6473a22cb14803f3ba4af16243a5d3c7",
+    "sha256_after": "2be9fc6a36f1ea71a6e2b3f778cc4e1c6473a22cb14803f3ba4af16243a5d3c7"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\aguigu\\mymath\\basic_arithmetic.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\aguigu\\mymath\\basic_arithmetic.py",
+    "sha256_before": "8164a0ea54c3dc474036c23efd99279ce008e4263469bf71e3b245ac1dd9fc68",
+    "sha256_after": "8164a0ea54c3dc474036c23efd99279ce008e4263469bf71e3b245ac1dd9fc68"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\aguigu\\mymath\\__init__.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\aguigu\\mymath\\__init__.py",
+    "sha256_before": "ae12a7fe3864fd6a639e0db893c4ae663958c406c02baf1a398ac1b807e4d74d",
+    "sha256_after": "ae12a7fe3864fd6a639e0db893c4ae663958c406c02baf1a398ac1b807e4d74d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\dependency_links.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\dependency_links.txt",
+    "sha256_before": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\PKG-INFO",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\PKG-INFO",
+    "sha256_before": "d2f78daaac5990d4fa19b7d6d0775c8f381f91ca70751182b5f84835e26d0b05"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\SOURCES.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\SOURCES.txt",
+    "sha256_before": "264be32a2dd30c34bee6951631ebe8c3af679319a6827fee54cc548d677638da"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\top_level.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\atguigu.egg-info\\top_level.txt",
+    "sha256_before": "dfdc6fce7e0544cd50e33fed52d0d57d2551e4d8d40bc98cd7050b8edf371267"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day10\\第三方库\\dist\\atguigu-0.1.0.tar.gz",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day10\\第三方库\\dist\\atguigu-0.1.0.tar.gz",
+    "sha256_before": "0d6221054a2076d8339579df7d3ba38ebfd368b1ade724c2bf4245e976f05452"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\hello.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\hello.txt",
+    "sha256_before": "385b3c8951b34a148d32a424a0623e9a02e55eb640ab5086bfcba19316d856fa"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p01_晨考题.py",
+    "sha256_before": "73fb2ee316eb6bb5282b2fc5064c9ea0353454e6acb8a642d0da61ff5d70a969",
+    "sha256_after": "73fb2ee316eb6bb5282b2fc5064c9ea0353454e6acb8a642d0da61ff5d70a969"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p02_晨考题_算法题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p02_晨考题_算法题.py",
+    "sha256_before": "1f41b279afaf62f398b86685f51c0135ec3430583ea05fd2ddfc476b2805386b",
+    "sha256_after": "1f41b279afaf62f398b86685f51c0135ec3430583ea05fd2ddfc476b2805386b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p03_直接赋值与深拷贝和浅拷贝.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p03_直接赋值与深拷贝和浅拷贝.py",
+    "sha256_before": "0fe523271526c5b8663009138a9e0b6e011cba61ad7043347d99377fb23ce9b1",
+    "sha256_after": "0fe523271526c5b8663009138a9e0b6e011cba61ad7043347d99377fb23ce9b1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p04_直接赋值与深拷贝和浅拷贝.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p04_直接赋值与深拷贝和浅拷贝.py",
+    "sha256_before": "b5f13620bd4d650d99b6b222425396243b05007c3b0e8bbbe61cb0ac0a5a3d60",
+    "sha256_after": "b5f13620bd4d650d99b6b222425396243b05007c3b0e8bbbe61cb0ac0a5a3d60"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p05_直接赋值与深拷贝和浅拷贝.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p05_直接赋值与深拷贝和浅拷贝.py",
+    "sha256_before": "571014d02e48649c94d44140d868a7ca96adc7af53ed236489906cc5dc865c4c",
+    "sha256_after": "571014d02e48649c94d44140d868a7ca96adc7af53ed236489906cc5dc865c4c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p06_闭包.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p06_闭包.py",
+    "sha256_before": "e88f2461af7d1ef8302552baa3e0c03c5b30ae56c9df43de1d7504678b3f2ea2",
+    "sha256_after": "e88f2461af7d1ef8302552baa3e0c03c5b30ae56c9df43de1d7504678b3f2ea2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p07_命名空间和作用域.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p07_命名空间和作用域.py",
+    "sha256_before": "88fe50b0c2633a3a0b7d9c48c0169c8c7960c80f85a6fa2168010ce02f0322dc",
+    "sha256_after": "88fe50b0c2633a3a0b7d9c48c0169c8c7960c80f85a6fa2168010ce02f0322dc"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p08_关键字global和nonlocal.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p08_关键字global和nonlocal.py",
+    "sha256_before": "c895f72ac3c5ba37d7bcd996c70a36ec97b7e5bc96ee710a5094be18d52a98f0",
+    "sha256_after": "c895f72ac3c5ba37d7bcd996c70a36ec97b7e5bc96ee710a5094be18d52a98f0"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p09_迭代器.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p09_迭代器.py",
+    "sha256_before": "2ec3f1472cf6a19f0aa4400282ebcc933017ca67315f59ee38b54f2f4092e0e9",
+    "sha256_after": "2ec3f1472cf6a19f0aa4400282ebcc933017ca67315f59ee38b54f2f4092e0e9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p10_迭代器与for循环.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p10_迭代器与for循环.py",
+    "sha256_before": "5fe83cf797b52950aef84a51cbb8dd3810efea7742d164f8ba83feb816a19348",
+    "sha256_after": "5fe83cf797b52950aef84a51cbb8dd3810efea7742d164f8ba83feb816a19348"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p11_自定义可迭代对象和迭代器对象_反向迭代器1.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p11_自定义可迭代对象和迭代器对象_反向迭代器1.py",
+    "sha256_before": "12e2261d362ff1346a8e3962bdd6e154aaab97360e556403c7bb64ba985516e9",
+    "sha256_after": "12e2261d362ff1346a8e3962bdd6e154aaab97360e556403c7bb64ba985516e9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p12_自定义可迭代对象和迭代器对象_单链表.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p12_自定义可迭代对象和迭代器对象_单链表.py",
+    "sha256_before": "94d49dc31af0068230aa4ec7b920e66dad92184a11dc4843a1d60e5ad6b06e9b",
+    "sha256_after": "94d49dc31af0068230aa4ec7b920e66dad92184a11dc4843a1d60e5ad6b06e9b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p12_自定义可迭代对象和迭代器对象_单链表2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p12_自定义可迭代对象和迭代器对象_单链表2.py",
+    "sha256_before": "f2868d152c38ac23bfb8173c4911b9a8381775389d05509c18bd73dc18ab6445",
+    "sha256_after": "f2868d152c38ac23bfb8173c4911b9a8381775389d05509c18bd73dc18ab6445"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p13_生成器.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p13_生成器.py",
+    "sha256_before": "b35095e7cdefc2999b26f111abd220df35c58b99b96a831885e29286dbcf7e45",
+    "sha256_after": "b35095e7cdefc2999b26f111abd220df35c58b99b96a831885e29286dbcf7e45"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p14_自定义可迭代对象和迭代器对象_反向迭代器2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p14_自定义可迭代对象和迭代器对象_反向迭代器2.py",
+    "sha256_before": "cb1d161a2bda77a8065d7c01ab066e1650d0f766b5a7f57cccf4c437ff13d050",
+    "sha256_after": "cb1d161a2bda77a8065d7c01ab066e1650d0f766b5a7f57cccf4c437ff13d050"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p15_自定义可迭代对象和迭代器对象_单链表3.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p15_自定义可迭代对象和迭代器对象_单链表3.py",
+    "sha256_before": "1465c32cc5ac887887d1dddbc4814d83a63aec07fcd8d7aac45d40d1e0eaa336",
+    "sha256_after": "1465c32cc5ac887887d1dddbc4814d83a63aec07fcd8d7aac45d40d1e0eaa336"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p16_生成器2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p16_生成器2.py",
+    "sha256_before": "e22c0d73ae560f3d0c7228486b8d1880f2c15d458ba3c614757c2bd1233eaebc",
+    "sha256_after": "e22c0d73ae560f3d0c7228486b8d1880f2c15d458ba3c614757c2bd1233eaebc"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p17_生成器3.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p17_生成器3.py",
+    "sha256_before": "e967ab28e20ed3823eca1f125963be5b9519450295c189116464349014901666",
+    "sha256_after": "e967ab28e20ed3823eca1f125963be5b9519450295c189116464349014901666"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p18_装饰器.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p18_装饰器.py",
+    "sha256_before": "a64eff954ef34c92fdf81906691c789e8e34c56747becec82fb19e2d8db20997",
+    "sha256_after": "a64eff954ef34c92fdf81906691c789e8e34c56747becec82fb19e2d8db20997"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p19_装饰器带参数.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p19_装饰器带参数.py",
+    "sha256_before": "6f74d60f1bc849c46450f8a6039cda4a655f69a0d3dacb36ced3497cd9da6499",
+    "sha256_after": "6f74d60f1bc849c46450f8a6039cda4a655f69a0d3dacb36ced3497cd9da6499"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p20_装饰器类.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p20_装饰器类.py",
+    "sha256_before": "0c201b2f0cc4738b4c5d89185f40e363c0925725b6255a8dd07c0949d567e8ad",
+    "sha256_after": "0c201b2f0cc4738b4c5d89185f40e363c0925725b6255a8dd07c0949d567e8ad"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\p21_装饰器类2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\p21_装饰器类2.py",
+    "sha256_before": "384915bd181769da496cb2baea3bc6b214e39982300da5353b8c53dd0e25304b",
+    "sha256_after": "384915bd181769da496cb2baea3bc6b214e39982300da5353b8c53dd0e25304b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\晚自习\\p20_装饰器类.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\晚自习\\p20_装饰器类.py",
+    "sha256_before": "0c201b2f0cc4738b4c5d89185f40e363c0925725b6255a8dd07c0949d567e8ad",
+    "sha256_after": "0c201b2f0cc4738b4c5d89185f40e363c0925725b6255a8dd07c0949d567e8ad"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day11\\晚自习\\p21_装饰器类2.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day11\\晚自习\\p21_装饰器类2.py",
+    "sha256_before": "384915bd181769da496cb2baea3bc6b214e39982300da5353b8c53dd0e25304b",
+    "sha256_after": "384915bd181769da496cb2baea3bc6b214e39982300da5353b8c53dd0e25304b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p01_晨考题.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p01_晨考题.py",
+    "sha256_before": "2b6889f487b0f81466878830b54b8a85d3cff326ea21174c03f6eeb048747cf2",
+    "sha256_after": "2b6889f487b0f81466878830b54b8a85d3cff326ea21174c03f6eeb048747cf2"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p02_进程和线程相关的概念.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p02_进程和线程相关的概念.py",
+    "sha256_before": "ffa699b5cdc7aa9d1c3286c9402bb533dc9a7cec691f53a70a13789384fa485b",
+    "sha256_after": "ffa699b5cdc7aa9d1c3286c9402bb533dc9a7cec691f53a70a13789384fa485b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p03_创建子进程方式一：创建Process类对象.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p03_创建子进程方式一：创建Process类对象.py",
+    "sha256_before": "190ed8fa60c299908705de34d3077be1744701861cb50c6e3ab28a371fd8e24b",
+    "sha256_after": "190ed8fa60c299908705de34d3077be1744701861cb50c6e3ab28a371fd8e24b"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p04_创建子进程方式二：继承 Process 类.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p04_创建子进程方式二：继承 Process 类.py",
+    "sha256_before": "4d1ac2bfb54760d3d08dfca8e1fa7d92bd1065d8bbc1249adccaa51ff7e94e36",
+    "sha256_after": "4d1ac2bfb54760d3d08dfca8e1fa7d92bd1065d8bbc1249adccaa51ff7e94e36"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p05_创建子进程方式三：进程池_map.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p05_创建子进程方式三：进程池_map.py",
+    "sha256_before": "18d2a37a298d10239225bea58d653ad9e5e744144712b331367938f0b260fa76",
+    "sha256_after": "18d2a37a298d10239225bea58d653ad9e5e744144712b331367938f0b260fa76"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p06_创建子进程方式三：进程池_apply.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p06_创建子进程方式三：进程池_apply.py",
+    "sha256_before": "b081eeeb52c5da9cb3075123e848b6d7cd01fd185a258bcb9e9487f356d34923",
+    "sha256_after": "b081eeeb52c5da9cb3075123e848b6d7cd01fd185a258bcb9e9487f356d34923"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p07_创建子进程方式三：进程池_apply_async.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p07_创建子进程方式三：进程池_apply_async.py",
+    "sha256_before": "8b6b0382ac11109ee9cc9de4bcb993d8dd7723fc383e526ec368db6604db0321",
+    "sha256_after": "8b6b0382ac11109ee9cc9de4bcb993d8dd7723fc383e526ec368db6604db0321"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p08_创建子进程方式三：进程池_apply_async_回调函数.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p08_创建子进程方式三：进程池_apply_async_回调函数.py",
+    "sha256_before": "0fd6e11b48e177b426b04d64eee482b62c18dc57ab81c9c675d71516d5f8541f",
+    "sha256_after": "0fd6e11b48e177b426b04d64eee482b62c18dc57ab81c9c675d71516d5f8541f"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p09_进程之间默认不共享数据.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p09_进程之间默认不共享数据.py",
+    "sha256_before": "63ecc7e1a3b9e9d8d020f5d1c631cdcee762acaf48a794bcc22f822b21785101",
+    "sha256_after": "63ecc7e1a3b9e9d8d020f5d1c631cdcee762acaf48a794bcc22f822b21785101"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p10_进程之间共享数据的方式一：multiprocessing的Queue.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p10_进程之间共享数据的方式一：multiprocessing的Queue.py",
+    "sha256_before": "60224aa14d94f62472a006003116f5af17085efc0bb1f775984a04d215bcfef1",
+    "sha256_after": "60224aa14d94f62472a006003116f5af17085efc0bb1f775984a04d215bcfef1"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p11_进程之间共享数据的方式二：multiprocessing_Manager_Queue.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p11_进程之间共享数据的方式二：multiprocessing_Manager_Queue.py",
+    "sha256_before": "0d7f2c4b0d186bca3aba9845be1f24881b204a99613ba0b733347a018e57425d",
+    "sha256_after": "0d7f2c4b0d186bca3aba9845be1f24881b204a99613ba0b733347a018e57425d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p12_进程之间共享数据的方式三：multiprocessing_Pipe.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p12_进程之间共享数据的方式三：multiprocessing_Pipe.py",
+    "sha256_before": "61226250ff240741c7ab3ecf90203b1c99d1fe6a0e260bc58a4e887bddd0c773",
+    "sha256_after": "61226250ff240741c7ab3ecf90203b1c99d1fe6a0e260bc58a4e887bddd0c773"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p13_创建线程方式一：创建Thread类的对象.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p13_创建线程方式一：创建Thread类的对象.py",
+    "sha256_before": "ce830794f3d11fd52d4b6abc392c87bedd6044676b17e8878bea86b592033ff0",
+    "sha256_after": "ce830794f3d11fd52d4b6abc392c87bedd6044676b17e8878bea86b592033ff0"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p14_创建线程方式二：继承Thread 类.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p14_创建线程方式二：继承Thread 类.py",
+    "sha256_before": "3e1a6d7cca5b86d9b5ef07c015dcd4890dc3e4eef5b4076dc3445a53f24f96b9",
+    "sha256_after": "3e1a6d7cca5b86d9b5ef07c015dcd4890dc3e4eef5b4076dc3445a53f24f96b9"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p15_创建线程方式三：线程池和map提交方式.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p15_创建线程方式三：线程池和map提交方式.py",
+    "sha256_before": "cf5df223cdeb40fff4b87bcee86e0b996827db20e9b7259eee8e5a92e08fd7de",
+    "sha256_after": "cf5df223cdeb40fff4b87bcee86e0b996827db20e9b7259eee8e5a92e08fd7de"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p16_创建线程方式三：线程池和submit提交方式.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p16_创建线程方式三：线程池和submit提交方式.py",
+    "sha256_before": "3c6cddfadb73cae8b2ded489a24298c93e24155afe9f35315615854b3b23725a",
+    "sha256_after": "3c6cddfadb73cae8b2ded489a24298c93e24155afe9f35315615854b3b23725a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p17_线程共享数据.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p17_线程共享数据.py",
+    "sha256_before": "053435341968c7705b22e3a26bc8f15376190649efc756ff1d4b59faeaad1d3d",
+    "sha256_after": "053435341968c7705b22e3a26bc8f15376190649efc756ff1d4b59faeaad1d3d"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p18_线程共享数据安全问题_加锁.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p18_线程共享数据安全问题_加锁.py",
+    "sha256_before": "4e2b2019f1058d3b1d7cf2f0e35650ba6195a57c269e11bb9006b7db14e8ea6a",
+    "sha256_after": "4e2b2019f1058d3b1d7cf2f0e35650ba6195a57c269e11bb9006b7db14e8ea6a"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p19_泛型（了解）.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p19_泛型（了解）.py",
+    "sha256_before": "08d986198a1166dd75fa800dbd550685122f89cfb36698e5919fc6a6ed2c08d5",
+    "sha256_after": "08d986198a1166dd75fa800dbd550685122f89cfb36698e5919fc6a6ed2c08d5"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\p20_泛型的几种形式（了解）.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\p20_泛型的几种形式（了解）.py",
+    "sha256_before": "112eff66e6dd20c2596a9703ab0c40f046e9c36e13188be5e7cb7a178b1d9f53",
+    "sha256_after": "112eff66e6dd20c2596a9703ab0c40f046e9c36e13188be5e7cb7a178b1d9f53"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\document\\python1.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\document\\python1.txt",
+    "sha256_before": "f95a13e553283e44cc74bde16f67d287040a489712f02e58282d3092f7b6cd8c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\document\\python2.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\document\\python2.txt",
+    "sha256_before": "3efcf5922d6923b8922a86b221cf8ffeaa27ad28e0e48d60e47bbb47653e6abe"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\document\\python3.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\document\\python3.txt",
+    "sha256_before": "72cb5412a6695da539e84b81c0c684349208612a2ba5e0ea2454abc1f1555389"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\document\\python4.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\document\\python4.txt",
+    "sha256_before": "e653ba07608b267d17a88fcddad5c3f0f84601478adb3a9b9a30666f9e166f16"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\day12\\document\\python5.txt",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\day12\\document\\python5.txt",
+    "sha256_before": "90d811c8d3e4baa9416acd74842a04d32ba750f7285c90f9b8c2050eaec413ce"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\客户管理系统\\Customer\\Customer.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\客户管理系统\\Customer\\Customer.py",
+    "sha256_before": "bd0867bda475c03e2ac6a8f48e28536d8105c1c71666590628787af85722cb2c",
+    "sha256_after": "bd0867bda475c03e2ac6a8f48e28536d8105c1c71666590628787af85722cb2c"
+  },
+  {
+    "old": "D:\\python\\python_grammar\\atguigu-5月\\代码汇总\\客户管理系统\\Customer\\CustomerManager.py",
+    "new": "D:\\python\\python_grammar\\90_course_materials\\atguigu_may\\代码汇总\\客户管理系统\\Customer\\CustomerManager.py",
+    "sha256_before": "6f00b9808fb058b81fab26c32a3621084fef12e13e3fe0a80500029ea262a95e",
+    "sha256_after": "6f00b9808fb058b81fab26c32a3621084fef12e13e3fe0a80500029ea262a95e"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\.env",
+    "new": "D:\\python\\python_grammar\\03_langchain\\.env",
+    "sha256_before": "409939d76c33288b4884b04aec46fc98b6850a6c350795aa202aaa71073cdfa0"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\.env.example",
+    "new": "D:\\python\\python_grammar\\03_langchain\\.env.example",
+    "sha256_before": "45ecab29e93b86aa089431758d459ebf43e5b690f684ac4431e6e5d500ebfd86"
+  },
+  {
+    "old": "D:\\python\\PythonProject\\requirements.txt",
+    "new": "D:\\python\\python_grammar\\03_langchain\\requirements.txt",
+    "sha256_before": "3b44fc9d23ce0ba0166d9da39d2d15469fa625ace9b08af04e1b961cd451daf7"
+  }
+]
