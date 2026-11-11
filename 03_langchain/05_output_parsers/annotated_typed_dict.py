@@ -1,3 +1,12 @@
+# ============================================================================
+# 学习目的：理解 TypedDict 和 Annotated 不自动执行运行时类型检查
+# 技术讲解：TypedDict 描述字典形状；Annotated 附加元数据，普通 Python 不据此校验值
+# 阅读路线：定义别名 → TypedDict → 构造普通字典 → 输出 188
+# 当前代码要注意：原说明称运行时会检查 int 并不准确：本例连 int 类型也不会自动检查
+# 动手验证：传入字符串 age2，与 annotated_pydantic 的校验对比
+# 阅读建议：在下方关键语句打断点，观察参数、返回类型和下一步接收的数据。
+# ============================================================================
+
 from typing import Annotated, TypedDict
 
 Age = Annotated[int, "年龄，范围0-150"]
@@ -7,6 +16,7 @@ class Person(TypedDict):
     age: int;
     age2:Age;
 
+# 【理解这一行】这里生成普通 dict；188 不会触发范围检查，换成字符串也不会自动触发 Python 类型校验。
 p = Person(name="z3",age=111,age2=188)
 print(p)
 

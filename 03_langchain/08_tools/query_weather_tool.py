@@ -1,3 +1,12 @@
+# ============================================================================
+# 学习目的：把 HTTP 查询包装为天气工具
+# 技术讲解：工具 loc 输入 → HTTP 参数 → JSON 响应 → JSON 字符串输出
+# 阅读路线：@tool 注册 → 读取天气密钥 → httpx.get → 序列化
+# 当前代码要注意：底部直接调用意味着 import 本模块也会查询天气；未调用 load_dotenv，须由入口加载配置；未检查 HTTP 错误状态
+# 动手验证：说明为什么导入本文件可能触发网络请求
+# 阅读建议：在下方关键语句打断点，观察参数、返回类型和下一步接收的数据。
+# ============================================================================
+
 from langchain_core.tools import tool
 import json
 import os
@@ -30,6 +39,7 @@ def get_weather(loc):
     }
 
     # Step 3. 发送 GET 请求获取天气数据
+    # 【理解这一行】实际 HTTP 请求发生在这里；timeout 限制等待，但仍应检查状态码再解释响应体。
     response = httpx.get(url, params=params, timeout=30)
 
     # Step 4. 解析响应内容为 JSON 并序列化为字符串返回
@@ -40,6 +50,7 @@ def get_weather(loc):
 
 # 测试
 # result = get_weather.invoke("shanghai")
+# 【理解这一行】这段位于模块顶层，所以导入本文件也会触发一次 HTTP 查询，不只在直接运行时执行。
 result = get_weather.invoke("beijing")
 print(result)
 
