@@ -1,5 +1,15 @@
+# ============================================================================
+# 学习目的：辨别本地工具调用与真正 MCP 客户端通信
+# 技术讲解：import mcp_server 获得同进程对象，_tools 字典直接找到并调用函数
+# 阅读路线：导入注册表 → 查工具 → 本地函数调用 → 天气 HTTP 请求
+# 当前代码要注意：这里没有 MCP 会话、JSON-RPC、SSE 或 stdio 传输；不需要先启动另一个模拟 server 进程
+# 动手验证：沿 call_get_weather 找出唯一真正访问网络的代码位于哪个函数
+# 阅读建议：在下方关键语句打断点，观察参数、返回类型和下一步接收的数据。
+# ============================================================================
+
 import json
 from loguru import logger
+# 【理解这一行】这是 Python 本地模块导入，不是连接远程 MCP 服务。
 from mcp_server import mcp
 
 
@@ -27,6 +37,7 @@ class MCPWeatherClient:
 
         try:
             # 调用服务端已注册的工具函数
+            # 【理解这一行】这里从本地字典取函数并调用，没有经过协议传输。
             weather_result = self.available_tools[tool_name](city)
             logger.info(f"成功获取 {city} 天气数据，返回结果长度：{len(weather_result)}")
             return weather_result

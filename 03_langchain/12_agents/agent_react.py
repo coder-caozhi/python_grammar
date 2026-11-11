@@ -1,6 +1,16 @@
+# ============================================================================
+# 学习目的：观察模型选择工具、接收工具结果再继续决策
+# 技术讲解：create_agent 驱动消息/工具执行循环；工具分别查询商品与库存
+# 阅读路线：本地模拟数据 → 两个工具 → Agent → messages 输入 → 查看工具调用轨迹
+# 当前代码要注意：商品价格与库存是示例数据；tool_calls 是可观察调用记录，不等于暴露模型内部完整思维过程
+# 动手验证：检查 search_products 与 check_inventory 的调用顺序及参数来源
+# 阅读建议：在下方关键语句打断点，观察参数、返回类型和下一步接收的数据。
+# ============================================================================
+
 import os
 from dotenv import load_dotenv
 
+# 【理解这一行】把 .env 配置加载到进程环境；不传路径时要注意调试/交互运行的搜索起点。
 load_dotenv()
 from langchain_openai import ChatOpenAI
 from langchain.agents import create_agent
@@ -90,12 +100,14 @@ def check_inventory(product_id: str) -> str:
 
 
 # 创建代理
+# 【理解这一行】创建 OpenAI 兼容聊天客户端：model 是远端模型，base_url 才决定请求服务地址。
 model = ChatOpenAI(
     model="deepseek-chat",
     api_key=os.getenv("DEEPSEEK_API_KEY"),
     base_url="https://api.deepseek.com",
 )
 
+# 【理解这一行】创建能够执行工具循环的 Agent；模型可提出工具调用，执行器负责运行并回填结果。
 agent = create_agent(
     model,
     tools=[search_products, check_inventory],
@@ -109,6 +121,7 @@ agent = create_agent(
 )
 
 # 测试案例1：无线耳机搜索
+# 【理解这一行】运行 Agent 执行流程；区分旧式 input 与新版 messages 状态格式，观察工具调用记录。
 result1 = agent.invoke({
     "messages": [{"role": "user", "content": "查找当前最受欢迎的无线耳机并检查是否有库存"}]
 })
@@ -129,6 +142,7 @@ def track_react_cycle(messages):
     step = 1
     for i, msg in enumerate(messages):
         msg_type = msg.__class__.__name__
+        # 【理解这一行】这里只检查可见 tool_calls 和消息类型，不是在读取模型内部完整推理过程。
         if msg_type == "AIMessage" and hasattr(msg, 'tool_calls') and msg.tool_calls:
             print(f"\n🔄 步骤{step}: Reasoning + Acting")
             for tool_call in msg.tool_calls:

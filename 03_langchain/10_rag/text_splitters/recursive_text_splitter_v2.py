@@ -1,3 +1,12 @@
+# ============================================================================
+# 学习目的：观察分块重叠和手工重建文本的假设
+# 技术讲解：把每段文本包装为 Document，再尝试去除重复部分拼接
+# 阅读路线：split_text → 包装文档 → text[30:] 去重 → 与原文比较
+# 当前代码要注意：固定裁掉 30 个字符只在实际重叠恰为 30 时成立，不是通用还原算法
+# 动手验证：换成包含段落分隔符的文本，检查还原比较是否仍成立
+# 阅读建议：在下方关键语句打断点，观察参数、返回类型和下一步接收的数据。
+# ============================================================================
+
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 
@@ -10,6 +19,7 @@ content = (
     "然而，其也面临依赖高质量知识库、可能的响应延迟、较高的维护成本以及数据隐私等挑战。")
 
 # 定义递归文本分割器
+# 【理解这一行】chunk_size 是目标块大小，overlap 保留上下文重叠；本例 len 统计字符，不是 token。
 text_splitter = RecursiveCharacterTextSplitter(
     chunk_size=100,
     chunk_overlap=30,
@@ -17,16 +27,20 @@ text_splitter = RecursiveCharacterTextSplitter(
 )
 
 # 核心：先调用split_text分割为字符串列表
+# 【理解这一行】输入一个字符串，返回多个字符串片段；这里还没有 Document 包装。
 splitter_texts = text_splitter.split_text(content)
 # 手动转换为Document对象，保证内容完整
+# 【理解这一行】正文放 page_content，来源等附加信息放 metadata；两者用途不同。
 splitter_documents = [Document(page_content=text) for text in splitter_texts]
 
 # 拼接所有分割后的内容（剔除重叠部分）验证完整性
 full_content = ""
 for text in splitter_texts:
     if full_content:
+        # 【理解这一行】固定去掉 30 字符是假设，不保证递归分隔后的每对块实际重叠都是 30。
         full_content += text[30:]  # 剔除重叠的30个字符后拼接
     else:
+        # 【理解这一行】固定去掉 30 字符是假设，不保证递归分隔后的每对块实际重叠都是 30。
         full_content += text
 
 # 打印验证结果

@@ -1,3 +1,12 @@
+# ============================================================================
+# 学习目的：观察多个职责链的顺序协调与回退逻辑
+# 技术讲解：协调器用 RunnableLambda 包装手写流程，各链绑定不同模拟业务工具
+# 阅读路线：创建三条链 → 顺序 invoke → 空结果/异常回退原函数 → 拼接报告
+# 当前代码要注意：不是 A2A 网络协议实现；bind_tools 加 StrOutputParser 不会自动执行工具；固定“成功”报告不能证明模型真的调用工具
+# 动手验证：在回退分支打断点，区分模型回复与本地模拟返回值
+# 阅读建议：在下方关键语句打断点，观察参数、返回类型和下一步接收的数据。
+# ============================================================================
+
 """
 基于 Python3.13 和 LangChain1.0 实现Agent-to-Agent（A2A） 协作案例，
 模拟携程订机票、美团订酒店、滴滴打车的跨平台智能协作流程，
@@ -22,6 +31,7 @@ LangChain1.0 核心组件：
 import os
 from dotenv import load_dotenv
 
+# 【理解这一行】把 .env 配置加载到进程环境；不传路径时要注意调试/交互运行的搜索起点。
 load_dotenv()
 from langchain_openai import ChatOpenAI
 from langchain_core.prompts import ChatPromptTemplate
@@ -30,11 +40,13 @@ from langchain_core.runnables import RunnableLambda
 from langchain.tools import tool
 
 # ===================== 通义千问配置（完全不变） =====================
+# 【理解这一行】创建 OpenAI 兼容聊天客户端：model 是远端模型，base_url 才决定请求服务地址。
 llm = ChatOpenAI(
     model="deepseek-chat",
     api_key=os.getenv("DEEPSEEK_API_KEY"),
     base_url="https://api.deepseek.com"
 )
+# 【理解这一行】把支持的文本/消息输出变成文本，方便下一步传递；消息元数据不会作为正文保留。
 output_parser = StrOutputParser()
 
 # ===================== 模拟业务函数（@tool装饰器） =====================
@@ -55,7 +67,9 @@ def didi_book_taxi(start: str, end: str, time: str) -> str:
 
 # ===================== 专属Agent（工具绑定逻辑） =====================
 def create_ctrip_agent(llm):
+    # 【理解这一行】把工具名称、描述和参数 schema 提供给模型；绑定本身不会执行工具函数。
     llm_with_tools = llm.bind_tools([ctrip_book_flight])
+    # 【理解这一行】根据角色消息描述创建模板；具体变量稍后在 format_messages/invoke 时填入。
     prompt = ChatPromptTemplate.from_messages([
         ("system", "你是专业的工具调用助手，只能调用CtripBookFlight工具，"
                    "调用格式必须正确，"
@@ -92,6 +106,7 @@ def create_travel_coordinator_agent(llm, ctrip_chain, meituan_chain, didi_chain)
     """总协调：按顺序调用+空值兜底+打印详细测试"""
     def a2a_schedule(input_dict):
         print("🔍 开始执行A2A协作测试，依次调用各业务Agent...\n")
+        # 【理解这一行】取得的是工具背后的原始 Python 函数；后续回退直接调用它，不能证明发生了模型工具执行。
         ctrip_func = ctrip_book_flight.func  # 获取携程工具原始函数
         meituan_func = meituan_book_hotel.func  # 获取美团工具原始函数
         didi_func = didi_book_taxi.func        # 获取滴滴工具原始函数
@@ -99,9 +114,11 @@ def create_travel_coordinator_agent(llm, ctrip_chain, meituan_chain, didi_chain)
         # 1. 携程Agent调用
         print("1. 调用【携程机票Agent】>>>")
         try:
+            # 【理解这一行】从入口运行整条链；沿每一段核对上一步输出能否满足下一步输入。
             ctrip_result = ctrip_chain.invoke({"input": "订机票"})
         except:
             ctrip_result = ""
+        # 【理解这一行】空文本可能来自只有 tool_calls 的模型消息被 StrOutputParser 丢弃；本例用固定结果回退。
         if not ctrip_result.strip():
             ctrip_result = ctrip_func("北京", "上海", "2026-02-01")  # 替换为原始函数
         print(f"✅ 携程测试结果：\n{ctrip_result}\n" + "-"*80 + "\n")
@@ -127,6 +144,7 @@ def create_travel_coordinator_agent(llm, ctrip_chain, meituan_chain, didi_chain)
         print(f"✅ 滴滴测试结果：\n{didi_result}\n" + "-"*80 + "\n")
 
         # 整合最终报告
+        # 【理解这一行】下面报告是固定模板，包含回退结果；“成功”文字不是实时平台订单或完整 Agent 验证证据。
         total_report = f"""
 📋 【携程-美团-滴滴 A2A协作测试最终报告】
 {('='*90)}
@@ -147,6 +165,7 @@ def create_travel_coordinator_agent(llm, ctrip_chain, meituan_chain, didi_chain)
 """
         return total_report
 
+    # 【理解这一行】让普通 Python 函数遵循 Runnable 接口，便于接入 invoke/管道。
     return RunnableLambda(a2a_schedule)
 
 # ===================== 主程序=====================

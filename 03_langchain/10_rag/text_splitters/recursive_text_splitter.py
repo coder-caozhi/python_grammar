@@ -1,3 +1,12 @@
+# ============================================================================
+# 学习目的：理解递归字符切分、块大小和重叠
+# 技术讲解：优先按较大分隔符切分，必要时使用更细分隔符；长度按 len 计
+# 阅读路线：输入文本 → split_text → create_documents → 输出长度
+# 当前代码要注意：重叠是目标而非所有输入都精确等于 30；create_documents 也会切分，输入已切片时可能重复处理
+# 动手验证：把 chunk_overlap 改为 0 后比较块的边界
+# 阅读建议：在下方关键语句打断点，观察参数、返回类型和下一步接收的数据。
+# ============================================================================
+
 """
 使用split_text()方法进行文本分割
 RecursiveCharacterTextSplitter中指定的
@@ -22,14 +31,17 @@ content = (
 # 比如，print(len("大模型RAG技术"))  # 输出8，因为统计的是字符个数（中文字符、字母、符号各算1个）
 # 遵循 “重叠后向前取有效内容、且不生成过小碎片” 的核心分割逻辑，不会让最后一个片段的有效内容只剩扣除重叠后的少量字符
 # 原始文本 → split_text → 第一次分割成字符串块 → create_documents → 对字符串块二次分割 → 内容丢失有可能
+# 【理解这一行】chunk_size 是目标块大小，overlap 保留上下文重叠；本例 len 统计字符，不是 token。
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=100, chunk_overlap=30, length_function=len)
 
 # 3.分割文本
 # 将原始文本内容分割成多个文本块
+# 【理解这一行】输入一个字符串，返回多个字符串片段；这里还没有 Document 包装。
 splitter_texts = text_splitter.split_text(content)
 
 # 4.转换为文档对象
 # 将分割后的文本块转换为文档对象列表
+# 【理解这一行】将字符串列表切分/包装成 Document 列表，不是单纯改一个类型名称。
 splitter_documents = text_splitter.create_documents(splitter_texts)
 print(f"原始文本大小：{len(content)}")
 print(f"分割文档数量：{len(splitter_documents)}")
